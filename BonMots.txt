@@ -47,7 +47,7 @@ Vocab & Phrases:
 - chatoyant - something that glows from deep within, like star sapphires or highly polished hard woods
 - pangram - a sentence, verse, or phrase that contains all of the letters of the alphabet
 - gestalt - an organized whole that is perceived as greater than the sum of it's parts
-- ren - Confucian concept; inadequately conveyed by "benevolence," that quality which is quintessentially human, which can only be cultivated through interaction with others, and which a solitary person cannot manifest. 
+- ren - Confucian concept; inadequately conveyed by "benevolence," that quality which is quintessentially human, which can only be cultivated through interaction with others, and which a solitary person cannot manifest.
 - ex nihilo - Latin, "from nothing"
 - antimacassar - a piece of cloth put over the back of a chair to protect it from grease or dirt, or as a decoration
 - prosopagnosia - the inability to recognize people by their faces
@@ -160,14 +160,12 @@ Vocab & Phrases:
 - terpsichorean - pertaining to dancing
 - sybaritic - characterized by or loving luxury or sensuous pleasure
 - offing - the more distant part of the sea seen from the shore
-- cineaste - any person, especially a director or producer, associated
-professionally with filmmaking
+- cineaste - any person, especially a director or producer, associated professionally with filmmaking
 - hebetude - the state of being dull; lethargy
 - lacustrine - of or relating to a lake
 - ludic - playful in an aimless way
 - aeonian - eternal; everlasting
-- aposiopesis - a sudden breaking off in the midst of a sentence, as if from
-inability or unwillingness to proceed
+- aposiopesis - a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed
 - nimiety - excess; overabundance
 - backpfeifengesicht - a face in need of a good punch
 
@@ -194,6 +192,3 @@ Original Clevernesses:
 Interesting Facts:
 - If you spend nine minutes of your time to save a dollar, you're working for less than minimum wage.
 - Before Mergenthaler's invention of the Linotype in 1884, no newspaper in the world had more than eight pages.
-
-Quotes and Passages:
-- “You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then — to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting.” Merlyn, The Once and Future King
