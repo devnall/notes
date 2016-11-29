@@ -68,7 +68,7 @@ Vocab & Phrases:
 - enchiridion - A handbook; manual
 - nephalist - a teetotaler
 - nubilous - Cloudy or foggy; obscure or vague, indefinite
-- bildingsroman - a novel about the education and development of a young protagonist
+- bildungsroman - a novel about the education and development of a young protagonist
 - gossypiboma - A surgical sponge accidentally left inside a patient's body.
 - zemblanity - Intentional unhappiness or bad luck occurring as expected - the opposite of serendipity.
 - tyrosemiophile - One who collects cheese labels.
@@ -169,8 +169,7 @@ Vocab & Phrases:
 - nimiety - excess; overabundance
 - backpfeifengesicht - a face in need of a good punch
 - eudaemonic - conducive to happiness
-- groak - to stare longingly at someone who is eating in the hope that they
-will offer to share their food
+- groak - to stare longingly at someone who is eating in the hope that they will offer to share their food
 - embonpoint - excessive plumpness; stoutness
 - furphy - a false report; rumor
 - inspissate - to thicken, as by evaporation; make or become dense
@@ -195,7 +194,7 @@ Original Clevernesses:
 - Der Strøöpwaffle Häusen
 - Life advice to highschoolers: Don't get too excited when you read the Fountainhead.
 - Resume line: Excellent attention to detale.
-- I'm like the angle opposite the hypotenous -- always right
+- I'm like the angle opposite the hypotenuse -- always right
 - vu déjá - when something actually does happen twice, but you don't remember the first time it happened (aka being a stoner)
 - Paradoxymoron
 - Defensestration - throwing oneself out a window in self-defense (e.g. to avoid being shot)
