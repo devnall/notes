@@ -181,6 +181,23 @@ Vocab & Phrases:
 - lucubrate - to work, write, or study laboriously, especially at night
 - amanuensis - a person employed to write or type what another dictates or to copy what has been written by another.
 - illeism - the act of referring to oneself in the third person instead of first person
+- froideur - an attitude of haughty aloofness; cold superiority
+
+Pangrams:
+- Waltz, bad nymph, for quick jigs vex. (28)
+- Quick zephyrs blow, vexing daft Jim. (29)
+- Sphinx of black quartz, judge my vow. (29)
+- Two driven jocks help fax my big quiz. (30)
+- Five quacking zephyrs jolt my wax bed. (31)
+- The five boxing wizards jump quickly. (31)
+- Pack my box with five dozen liquor jugs. (32)
+- The quick brown fox jumps over the lazy dog. (35)
+- Jinxed wizards pluck ivy from the big quilt. (36)
+- Crazy Fredrick bought many very exquisite opal jewels. (46)
+- We promptly judged antique ivory buckles for the next prize. (50)
+- A mad boxer shot a quick, gloved jab to the jaw of his dizzy opponent. (54)
+- Jaded zombies acted quaintly but kept driving their oxen forward. (55)
+- The job requires extra pluck and zeal from every young wage earner. (55)
 
 One-Liners:
 - Imagine a world without hypothetical situations
