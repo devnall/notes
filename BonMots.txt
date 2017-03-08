@@ -182,6 +182,7 @@ Vocab & Phrases:
 - amanuensis - a person employed to write or type what another dictates or to copy what has been written by another.
 - illeism - the act of referring to oneself in the third person instead of first person
 - froideur - an attitude of haughty aloofness; cold superiority
+- surfactant - a substance that tends to reduce the surface tension of a liquid in which it's dissolved
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
