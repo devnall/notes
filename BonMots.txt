@@ -183,6 +183,9 @@ Vocab & Phrases:
 - illeism - the act of referring to oneself in the third person instead of first person
 - froideur - an attitude of haughty aloofness; cold superiority
 - surfactant - a substance that tends to reduce the surface tension of a liquid in which it's dissolved
+- stochastic - randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely
+- bafflegab - incomprehensible or pretentious language, especially bureaucratic jargon
+- martinet - a strict disciplinarian, especially in the armed forces
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
