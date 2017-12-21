@@ -186,6 +186,9 @@ Vocab & Phrases:
 - stochastic - randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely
 - bafflegab - incomprehensible or pretentious language, especially bureaucratic jargon
 - martinet - a strict disciplinarian, especially in the armed forces
+- mondegreen - a mishearing or misinterpretation of a phrase as a result of near-homophony, in a way that gives it a new meaning.
+- soramimi - a homophonic translation of song lyrics; that is, interpreting lyrics in one language as similar-sounding lyrics in another language
+
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
