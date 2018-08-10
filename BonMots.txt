@@ -189,6 +189,9 @@ Vocab & Phrases:
 - mondegreen - a mishearing or misinterpretation of a phrase as a result of near-homophony, in a way that gives it a new meaning.
 - soramimi - a homophonic translation of song lyrics; that is, interpreting lyrics in one language as similar-sounding lyrics in another language
 - confelicity - delight in another person's happiness
+- cabochon - a gem that has been polished but not faceted
+- vitiate - to spoil or impair the quality or efficiency of
+- tsundoku - buying books and not reading them. letting books pile up unread on floors or shelves or nightstands
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
