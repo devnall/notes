@@ -475,3 +475,5 @@
 "Some men just want to see the world learn." -#matt
 "There are times in life when people must know when not to let go. Balloons are designed to teach small children this." -Terry Pratchett
 "For a brief time I was here, and for a brief time, I mattered." -Harlan Ellison, 1934-2018
+"If a person possesses any tolerable amount of common sense and experience, his own mode of laying out his existence is the best, not because it is the best in itself, but because it is his own mode." -John Stuart Mill
+
