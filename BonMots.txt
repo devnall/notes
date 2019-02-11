@@ -193,6 +193,10 @@ Vocab & Phrases:
 - vitiate - to spoil or impair the quality or efficiency of
 - tsundoku - buying books and not reading them. letting books pile up unread on floors or shelves or nightstands
 - roman-a-clef - French for "novel with a key", a novel about real life overlaid with a facade of fiction. The characters represent real people and the "key" is a mapping of characters to real people, either provided by the auther or implied via epigraphs or other literary techniques. E.G. Animal Farm
+- quadragesimal - of, like, or pertaining to Lent; lasting forty days
+- enthymeme - a kind of syllogism, or logical deduction, in which one of the premises is unstated. E.G. If P & Q then R; but omitting P or Q (presumably because it's obvious and doesn't need to be explicitly stated)
+- chiasmus - a grammatical structure that inverts a previous phrase. E.G. Don't sweat the petty and don't pet the sweaty.
+- anthimeria - the usage of a word in a new grammatical form, most often the usage of a noun as a verb. E.G "google" in "I need to google it."
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
