@@ -198,6 +198,7 @@ Vocab & Phrases:
 - chiasmus - a grammatical structure that inverts a previous phrase. E.G. Don't sweat the petty and don't pet the sweaty.
 - anthimeria - the usage of a word in a new grammatical form, most often the usage of a noun as a verb. E.G "google" in "I need to google it."
 - pathetic fallacy - a literary term for the attribution of human emotion and conduct to things found in nature that are not human. It is a kind of personification that occurs in poetic descriptions, when, for example, clouds seem sullen, when leaves dance, or when rocks seem indifferent.
+- theophany - the appearance of a deity to a human (generally in reference to Greek mythology)
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
