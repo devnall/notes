@@ -201,6 +201,7 @@ Vocab & Phrases:
 - theophany - the appearance of a deity to a human (generally in reference to Greek mythology)
 - antinomy - a contradiction between two beliefs or conclusions that are in themselves reasonable; a paradox
 - omphalos - the center or hub of something
+- melisma (melismatic) - a group of notes sung all within one syllable
 
 Pangrams:
 - Waltz, bad nymph, for quick jigs vex. (28)
