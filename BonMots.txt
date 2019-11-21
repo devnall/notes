@@ -205,6 +205,8 @@ Vocab & Phrases:
 - symphorophilia - a paraphilia in which sexual arousal involves staging and watching a tragedy, such as a fire or a traffic accident
 - dithyramb - a wildly enthusiastic speech or piece of writing
 - agonistic - combatative, striving to overcome in argument
+- aptronym - a personal name aptly or peculiarly suited to its owner (also
+    aptonym, euonym); e.g. Cecil Fielder the baseball player, Chris Moneymaker the successful poker player, Sara Blizzard or Amy Freeze who are both meteorologists
 
 
 Pangrams:
