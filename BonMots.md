@@ -211,6 +211,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * dithyramb - a wildly enthusiastic speech or piece of writing
 * agonistic - combatative, striving to overcome in argument
 * raffish - marked by flashy vulgarity or crudeness
+* aptronym - a personal name aptly or peculiarly suited to its owner (also aptonym, euonym); e.g. Cecil Fielder the baseball player, Chris Moneymaker the poker player, Sara Blizzard or Amy Freeze who are both meteorologists, Mike Sharp the Atlanta-area knife sharpener
+
 
 ## Pangrams:
 
@@ -231,6 +233,7 @@ Phrases that use at least one of each letter of the alphabet. Fewest letters "wi
 * Jaded zombies acted quaintly but kept driving their oxen forward. (55)
 * The job requires extra pluck and zeal from every young wage earner. (55)
 
+
 ## Original portmanteaus and puns:
 
 Dumb stuff that I believe I thought up on my own but probably stole without realizing it.
@@ -242,6 +245,7 @@ Dumb stuff that I believe I thought up on my own but probably stole without real
 * Defensestration - throwing oneself out a window in self-defense (e.g. to avoid being shot)
 * Slackadaisical - a lackadaisical slacker
 * I'm like the angle opposite the hypotenuse -- always right
+
 
 ## Band Names:
 
@@ -266,6 +270,7 @@ A list of (mostly dumb and/or juvenile) band names (mostly spoonerisms/malapropi
 * A Well-Boiled Icicle
 * Tense Present
 * Charlie Brown Recluse
+
 
 ## Interesting Facts:
 
