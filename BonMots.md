@@ -4,7 +4,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 
 ## Vocab & Phrases:
 
-* pandiculation - yawning and stretching
+* pandiculation - stretching, especially right after waking up or when sleepy/fatigued
 * thaumaturgy - the performing of miracles or magic
 * propinquity - nearness
 * velleity - a slight wish or inclination
