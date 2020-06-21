@@ -4,7 +4,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 
 ## Vocab & Phrases:
 
-* pandiculation - yawning and stretching
+* pandiculation - stretching, especially right after waking up or when sleepy/fatigued
 * thaumaturgy - the performing of miracles or magic
 * propinquity - nearness
 * velleity - a slight wish or inclination
@@ -213,6 +213,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * raffish - marked by flashy vulgarity or crudeness
 * aptronym - a personal name aptly or peculiarly suited to its owner (also aptonym, euonym); e.g. Cecil Fielder the baseball player, Chris Moneymaker the poker player, Sara Blizzard or Amy Freeze who are both meteorologists, Mike Sharp the Atlanta-area knife sharpener
 * debrouillard - a purveyor of difficult to source foods, often known to resort to dubiously legal methods of acquisition. more generally, someone who is good at adapting to any situation
+* fin de siécle - French term meaning "end of the century" (usually refers to end of 19th cent.) with connotations of modernism, self-indulgence, degeneracy, and world-weariness
+* komorebi - the effect of sunlight streaming through the leaves of the trees and the interplay between the shadows, light, and leaves. Somewhat bastardized English translation of a Japanese word.
 
 ## Pangrams:
 
