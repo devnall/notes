@@ -212,7 +212,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * agonistic - combatative, striving to overcome in argument
 * raffish - marked by flashy vulgarity or crudeness
 * aptronym - a personal name aptly or peculiarly suited to its owner (also aptonym, euonym); e.g. Cecil Fielder the baseball player, Chris Moneymaker the poker player, Sara Blizzard or Amy Freeze who are both meteorologists, Mike Sharp the Atlanta-area knife sharpener
-
+* debrouillard - a purveyor of difficult to source foods, often known to resort to dubiously legal methods of acquisition. more generally, someone who is good at adapting to any situation
 
 ## Pangrams:
 
