@@ -215,6 +215,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * debrouillard - a purveyor of difficult to source foods, often known to resort to dubiously legal methods of acquisition. more generally, someone who is good at adapting to any situation
 * fin de siécle - French term meaning "end of the century" (usually refers to end of 19th cent.) with connotations of modernism, self-indulgence, degeneracy, and world-weariness
 * komorebi - the effect of sunlight streaming through the leaves of the trees and the interplay between the shadows, light, and leaves. Somewhat bastardized English translation of a Japanese word.
+* mythopoeia - a narrative genre in modern literature and film where a fictional or artificial mythology is created, e.g. Middle Earth (Tolkein coined the term); also, the making of a myth or myths (but a noun, e.g. "the Silmillarion abounds with mythopoeia")
+* syncretism - fusion or reconciliation (or the attempt at fusing/reconciling) of differing systems of belief, as in philosophy or religion
 
 ## Pangrams:
 
