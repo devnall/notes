@@ -218,7 +218,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * mythopoeia - a narrative genre in modern literature and film where a fictional or artificial mythology is created, e.g. Middle Earth (Tolkein coined the term); also, the making of a myth or myths (but a noun, e.g. "the Silmillarion abounds with mythopoeia")
 * syncretism - fusion or reconciliation (or the attempt at fusing/reconciling) of differing systems of belief, as in philosophy or religion
 * coolth - coolness; the opposite of warmth
-* cavil - to argue of find fault over trivial matters, to nitpick; synonym: quibble
+* cavil - to argue or find fault over trivial matters, to nitpick; synonym: quibble
 * barratry - the act or practice of bringing a groundless lawsuit(s); sale or purchase of positions in church or state; misconduct by a ship's captain or crew resulting in damage to the ship's owner
 * hemodynamics - the study of blood flow
 * capitonym - a word that has different meanings based on if it is capitalized. E.G. Jupiter has 79 known moons while Earth has one Moon. Or Polish and polish.
@@ -228,7 +228,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * bahuvrihi - from Sanskrit, a type of compound word that denotes a referent by specifying a certain characteristic or quality the referent possesses, but not the thing itself. E.G. a sabertooth is neither a sabre nor a tooth, but a feline with sabre-like teeth. See also: "The peanut is neither a pea nor a nut. Discuss."
 * nurdle - to muse on a subject you know nothing about
 * gongfermor - Tudor English-era term (also, gong farmer) to describe someone who dug out and removed human shit from privies and cesspits. A.k.a. "nightmen" (as they were only allowed to do their unseemly work at night)
-* oleaginous - greasy or oily, either literally or figuratively for excessively complimentar as a way to curry favor, like slimeball political lackies
+* oleaginous - greasy or oily, either literally or figuratively for excessively complimentary as a way to curry favor, like slimeball political lackies
 * ellipsism - a sadness that you'll never be able to know how history will turn out
 * kuebiko - a state of exhaustion inspired by acts of senseless violence
 * exulansis - the tendency to give up trying to talk about an experience because people are unable to relate to it
@@ -236,7 +236,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * kenopsia - the eerie, forlorn atmosphere of a place that is usually bustling with people but is now abandoned and quiet
 * jouska - a hypothetical conversation that you compulsively play out in your head
 * chrysalism - the amniotic tranquility of being cozy indoors during a thunderstorm
-* vemödalen - the frustration of photographic something amazing when thousands of identical photos already exist
+* vemödalen - the frustration of photographing something amazing when thousands of identical photos already exist
 * opia - the ambiguous intensity of looking someone in the eye, which can feel simultaneously invasive and vulnerable
 * monachopsis - the subtle but persistent feeling of being out of place
 * vellichor - the strange wistfulness of used bookstores
