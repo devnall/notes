@@ -227,7 +227,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * squamous - covered with or formed of scales; scaly
 * bahuvrihi - from Sanskrit, a type of compound word that denotes a referent by specifying a certain characteristic or quality the referent possesses, but not the thing itself. E.G. a sabertooth is neither a sabre nor a tooth, but a feline with sabre-like teeth. See also: "The peanut is neither a pea nor a nut. Discuss."
 * nurdle - to muse on a subject you know nothing about
-* gongermor - Tudor English-era term to describe someone who dug out and removed human shit from privies and cesspits. A.k.a. "nightmen" (as they were only allowed to do their unseemly work at night)
+* gongfermor - Tudor English-era term (also, gong farmer) to describe someone who dug out and removed human shit from privies and cesspits. A.k.a. "nightmen" (as they were only allowed to do their unseemly work at night)
 * oleaginous - greasy or oily, either literally or figuratively for excessively complimentar as a way to curry favor, like slimeball political lackies
 * ellipsism - a sadness that you'll never be able to know how history will turn out
 * kuebiko - a state of exhaustion inspired by acts of senseless violence
