@@ -217,6 +217,31 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * komorebi - the effect of sunlight streaming through the leaves of the trees and the interplay between the shadows, light, and leaves. Somewhat bastardized English translation of a Japanese word.
 * mythopoeia - a narrative genre in modern literature and film where a fictional or artificial mythology is created, e.g. Middle Earth (Tolkein coined the term); also, the making of a myth or myths (but a noun, e.g. "the Silmillarion abounds with mythopoeia")
 * syncretism - fusion or reconciliation (or the attempt at fusing/reconciling) of differing systems of belief, as in philosophy or religion
+* coolth - coolness; the opposite of warmth
+* cavil - to argue of find fault over trivial matters, to nitpick; synonym: quibble
+* barratry - the act or practice of bringing a groundless lawsuit(s); sale or purchase of positions in church or state; misconduct by a ship's captain or crew resulting in damage to the ship's owner
+* hemodynamics - the study of blood flow
+* capitonym - a word that has different meanings based on if it is capitalized. E.G. Jupiter has 79 known moons while Earth has one Moon. Or Polish and polish.
+* eigengrau - the dark grey color seen in the eyes in perfect darkness as a result of signals from the optic nerves (hex #16161d, supposedly)
+* rugate OR rugose OR rugous - having a rough, wrinkled surface
+* squamous - covered with or formed of scales; scaly
+* bahuvrihi - from Sanskrit, a type of compound word that denotes a referent by specifying a certain characteristic or quality the referent possesses, but not the thing itself. E.G. a sabertooth is neither a sabre nor a tooth, but a feline with sabre-like teeth. See also: "The peanut is neither a pea nor a nut. Discuss."
+* nurdle - to muse on a subject you know nothing about
+* gongermor - Tudor English-era term to describe someone who dug out and removed human shit from privies and cesspits. A.k.a. "nightmen" (as they were only allowed to do their unseemly work at night)
+* oleaginous - greasy or oily, either literally or figuratively for excessively complimentar as a way to curry favor, like slimeball political lackies
+* ellipsism - a sadness that you'll never be able to know how history will turn out
+* kuebiko - a state of exhaustion inspired by acts of senseless violence
+* exulansis - the tendency to give up trying to talk about an experience because people are unable to relate to it
+* occhiolism - the awareness of the smallness of your perspective
+* kenopsia - the eerie, forlorn atmosphere of a place that is usually bustling with people but is now abandoned and quiet
+* jouska - a hypothetical conversation that you compulsively play out in your head
+* chrysalism - the amniotic tranquility of being cozy indoors during a thunderstorm
+* vemödalen - the frustration of photographic something amazing when thousands of identical photos already exist
+* opia - the ambiguous intensity of looking someone in the eye, which can feel simultaneously invasive and vulnerable
+* monachopsis - the subtle but persistent feeling of being out of place
+* vellichor - the strange wistfulness of used bookstores
+* umarell - Italian term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks - stereotypically with their hands clasped behind their back and offering unsolicited/unwanted advice.
+*
 
 ## Pangrams:
 
@@ -282,3 +307,13 @@ Random facts that I find interesting and/or funny.
 
 * Before Mergenthaler's invention of the Linotype in 1884, no newspaper in the world had more than eight pages.
 * The Italian version of "You can't have your cake and eat it too" is "You want your bottle full of wine and your wife drunk"
+* A neat passage from Terry Brooks:
+```
+Glint, glisten, glitter, gleam...
+
+Tiffany thought a lot about words, in the long hours of churning butter. 'Onomatopoeic', she'd discovered in the dictionary, meant words that sounded like the noise of the thing they were describing, like 'cuckoo'. But she thought there should be a word meaning 'a word that sounds like the noise a thing would make if that thing made a noise even though, actually, it doesn't, but would if it did.'
+
+Glint, for example. If light made a noise as it reflected off a distant window, it'd go 'glint!' And the light of tinsel, all those little glints chiming together, would make a noise like 'glitterglitter'. 'Gleam' was a clean, smooth noise from a surface that intended to shine all day. And 'glisten' was the soft, almost greasy sound of something rich and oily.
+```
+Follow-up: "phonestheme" may work, see https://english.stackexchange.com/a/456359
+* 
