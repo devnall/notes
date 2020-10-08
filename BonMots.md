@@ -12,7 +12,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * folie à plusieurs -  the madness of many
 * contretemps - something inopportune or embarrassing
 * longueur - a tedious passage in a work of literature or performance art
-* sesquipedaliophobia - the fear of long words (alternately Hippopotomonstro-Sesquipedaliophobia)
 * nescience - lack of knowledge or awareness
 * eleemosynary - relating to charity; charitable
 * L’esprit de l’escalier or esprit d'escalier (stairway wit) is the sense of thinking of a clever comeback in an encounter when it is too late. The phrase can be used to describe a riposte to an insult, or any witty, clever remark that comes to mind too late to be useful—when one is on the “staircase” leaving the scene of the encounter. The phenomenon is usually accompanied by a feeling of regret at having not thought of the riposte when it was most needed or suitable.
@@ -21,7 +20,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * sapid - having flavor, especially a strong pleasant flavor
 * serodiscordant - used to describe a couple in which one partner is HIV positive and the other is HIV negative
 * macropterous - having large or long wings
-* Enochlophobia - fear of crowds
 * atelier - A workshop, studio (at-l-YAY)
 * Numquam ponenda est pluralitas sine necessitate -- Original Latin text of Occam's Razor; roughly "Plurality should never be posited without necessity.
 * syncretism - the amalgamation of different religions, cultures, or schools of thought
@@ -66,7 +64,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * pleonasm - the use of more words than are necessary to express an idea
 * dilatory - given to, or marked by, procrastination or delay
 * weltschmerz - sentimental pessimism; sorrow that one feels and accepts as one's necessary portion in life
-* gynotikolobomassophile - one who loves to nibble women's earlobes
 * meupareunia - Sexual activity enjoyed by only one of the participants
 * adytum - a sacred place that the public is forbidden to enter; an inner shrine
 * filiopietistic - pertaining to reverence of forebears or tradition, especially if carried to excess.
@@ -76,7 +73,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * bildungsroman - a novel about the education and development of a young protagonist
 * gossypiboma - A surgical sponge accidentally left inside a patient's body.
 * zemblanity - Intentional unhappiness or bad luck occurring as expected - the opposite of serendipity.
-* tyrosemiophile - One who collects cheese labels.
 * blissom - to bleat with sexual desire
 * fritinancy - the buzzing and chirruping of insects such as cicadas.
 * forglopned - old english word  meaning "overwhelmed with astonishment".
@@ -93,9 +89,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * mordacious - sharp or caustic in style, tone, etc.; biting or given to biting.
 * battology - wearisome repetition of words in speaking or writing.
 * sonder - (noun) the realization that each random passerby is living a life as vivid and complex as your own
-* apodysophilia - A feverish desire or undue eagerness to undress
 * lemniscate - the infinity symbol, from a Latin word meaning "decorated with ribbons"
-* sarchasm - (neologism) the gulf between the person who makes a sarcastic comment and the person who doesn't get it
 * pilkunnussija - (Finnish) literally: "comma fucker"; someone who believes it's their job to point out all spelling mistakes
 * edacity - voraciousness; appetite
 * ploce - repetition of a word or phrase to gain special emphasis or indicate an extension of meaning
@@ -113,11 +107,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * cathexis - the investment of emotional significance in an activity, object, or idea
 * parageusia - an abnormal or hallucinatory sense of taste
 * hibernaculum - a protective case or covering, especially for winter, as of an animal or a plant bud.
-* clinomania - a obsessive or abnormal desire to stay in bed
-* ochlophobia - an abnormal fear of crowds
 * misology - distrust or hatred of reason or reasoning
 * williwaw - a violent squall that blows in near-polar latitudes
-* ailurophilia - a liking for cats, as by cat fanciers
 * aubade - Music. A peice sung or played outdoors at dawn, usually as a compliment to someone.
 * deipnosophist - a person who is an adept conversationalist at table.
 * ambivert - one whose personality type is intermediate between extrovert and introvert
@@ -134,7 +125,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * Weltanschauung - a comprehensive conception or image of the universe and of humanity's relation to it
 * thalassic - of or pertaining to seas and oceans
 * subfuscous - slightly dark, dusky, or somber
-* mysophobia - a dread of dirt or filth
 * larrikin - disoderly; rowdy
 * rubricate - to mark or color with red
 * viridescent - slightly green; greenish
@@ -207,7 +197,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * antinomy - a contradiction between two beliefs or conclusions that are in themselves reasonable; a paradox
 * omphalos - the center or hub of something
 * melisma (melismatic) - a group of notes sung all within one syllable
-* symphorophilia - a paraphilia in which sexual arousal involves staging and watching a tragedy, such as a fire or a traffic accident
 * dithyramb - a wildly enthusiastic speech or piece of writing
 * agonistic - combatative, striving to overcome in argument
 * raffish - marked by flashy vulgarity or crudeness
@@ -241,6 +230,44 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * monachopsis - the subtle but persistent feeling of being out of place
 * vellichor - the strange wistfulness of used bookstores
 * umarell - Italian term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks - stereotypically with their hands clasped behind their back and offering unsolicited/unwanted advice.
+* aleatory / aleatoric - relating to or denoting music or other forms of art involving elements of random choice (sometimes using statistical or computer techniques) during their composition, production, or performance.
+* abacination - a form of torture in which the victim is blinded by having a red-hot metal plate held before their eyes
+
+
+## Paraphilias, Manias, and Phobias
+
+https://en.wikipedia.org/wiki/List_of_paraphilias
+
+* gynotikolobomassophile - one who loves to nibble women's earlobes
+* symphorophilia - a paraphilia in which sexual arousal involves staging and watching a tragedy, such as a fire or a traffic accident
+* ailurophilia - a liking for cats, as by cat fanciers
+* tyrosemiophile - One who collects cheese labels.
+* apodysophilia - A feverish desire or undue eagerness to undress
+
+* clinomania - a obsessive or abnormal desire to stay in bed
+
+* sesquipedaliophobia - fear of long words (alternately Hippopotomonstro-Sesquipedaliophobia)
+* ochlophobia or enochlophobia - fear of crowds
+* mysophobia - fear of dirt or filth
+* ablutophobia - fear of cleaning, washing, or bathing
+* nomophobia - fear of being out of a phone's range of service, phone being out of battery, or lost/misplaced phone
+* ancraophobia or anemophobia - fear of wind
+* spectrophobia or catoptrophobia - fear of mirrors or one's own relection
+* linonophobia - fear of string
+* chorophobia - fear of dancing or a situation involving dancing
+* arachibutyrophobia - fear of peanut butter or, specifically, peanut butter sticking to the roof of the mouth
+* didaskaleinophobia - fear of school or going to school
+* automatonophobia - fear of human-like figures (wax sculptures, statues, mannequins, etc.)
+* chronomentrophobia - fear of clocks
+* coulrophobia - fear of clowns
+* ephebiphobia - fear of teenagers
+* genuphobia - fear of knees
+* koinoniphobia - fear of rooms
+* mageirocophobia - fear of cooking
+* nosocomephobia - fear of hospitals
+* philematophobia - fear of kissing
+* phobophobia - fear of phobias
+* pteridophobia - fear of ferns
 *
 
 ## Pangrams:
@@ -274,6 +301,7 @@ Dumb stuff that I believe I thought up on my own but probably stole without real
 * Defensestration - throwing oneself out a window in self-defense (e.g. to avoid being shot)
 * Slackadaisical - a lackadaisical slacker
 * I'm like the angle opposite the hypotenuse -- always right
+* sarchasm - (neologism) the gulf between the person who makes a sarcastic comment and the person who doesn't get it
 
 
 ## Band Names:
