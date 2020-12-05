@@ -233,6 +233,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * aleatory / aleatoric - relating to or denoting music or other forms of art involving elements of random choice (sometimes using statistical or computer techniques) during their composition, production, or performance.
 * abacination - a form of torture in which the victim is blinded by having a red-hot metal plate held before their eyes
 * éminence grise - French, "grey eminence"; a powerful decision-maker or adviser who operates behind the scenes, or in a non-public or unofficial capacity.
+* eclegma - a syrup on licorice root sucked for the relief of cough
 
 ## Paraphilias, Manias, and Phobias
 
