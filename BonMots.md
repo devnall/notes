@@ -234,6 +234,27 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * abacination - a form of torture in which the victim is blinded by having a red-hot metal plate held before their eyes
 * éminence grise - French, "grey eminence"; a powerful decision-maker or adviser who operates behind the scenes, or in a non-public or unofficial capacity.
 * eclegma - a syrup on licorice root sucked for the relief of cough
+* ineluctable - inevitable, irresistible, inescapable
+* sotto voce - Italian "under the voice"; intentionally lowering the volume of one's voice for emphasis. The speaker gives the impression of uttering involuntarily a truth which may surprise, shock, or offend. E.G. Galileo's "Eppur si muove".
+* clinamen - a bias, an inclination or tendency to turn aside; also, an event without any cause (in reference to the Epicurean theory of the causeless swervings of atoms)
+* estivate - to be in a dormant or torpid state during a hot dry period (as opposed to hibernate). To spend the summer, especially at a different place from one's usual residence.
+* gravid - pregnant; distended with or full of eggs
+* parturition - the action or process of giving birth to offspring
+* enthymeme - a syllogism in which one of the premises (or the conclusion) is implicit. E.G. "Socrates is human, therefore Socrates is mortal." implies but doesn't state "All humans are mortal."
+* guignol - a puppet, especially a hand puppet; a puppet show; a theatrical production featuring melodramatic tension, horror, and shock
+* emetic - a drug or agent that induces vomiting
+* salutary - producing a beneficial effect; promoting health
+* contumely - harsh language or treatment arising from haughtiness and contempt
+* maskirovka - Russian military deception, a military doctrine developed in the early 20th century that covers a broad range of measures from camouflage, imitation with decoys and dummies, maneuvers intended to deceive, denial, and disinformation.
+* refulgence - a radiant or resplendent quality or state
+* realpolitik - politics based on practical and material factors rather than on theoretical or ethical objectives
+* anodyne - serving to alleviate pain; not likely to offend or arouse tensions, innocuous; something that soothes, calms, or comforts
+* intellection - an act or exercise of the intellect
+* duumvir - one of two people jointly holding power
+* panjandrum - a powerful personage or pretentious official
+* keloid - a thick scar resulting from excessive growth of fibrous tissue
+* esker - a long, narrow ridge or mound of sand, gravel, and boulders
+*
 
 ## Paraphilias, Manias, and Phobias
 
@@ -269,26 +290,9 @@ https://en.wikipedia.org/wiki/List_of_paraphilias
 * philematophobia - fear of kissing
 * phobophobia - fear of phobias
 * pteridophobia - fear of ferns
-* ineluctable - inevitable, irresistible, inescapable
-* sotto voce - Italian "under the voice"; intentionally lowering the volume of one's voice for emphasis. The speaker gives the impression of uttering involuntarily a truth which may surprise, shock, or offend. E.G. Galileo's "Eppur si muove".
-* clinamen - a bias, an inclination or tendency to turn aside; also, an event without any cause (in reference to the Epicurean theory of the causeless swervings of atoms)
-* estivate - to be in a dormant or torpid state during a hot dry period (as opposed to hibernate). To spend the summer, especially at a different place from one's usual residence.
-* gravid - pregnant; distended with or full of eggs
-* parturition - the action or process of giving birth to offspring
-* enthymeme - a syllogism in which one of the premises (or the conclusion) is implicit. E.G. "Socrates is human, therefore Socrates is mortal." implies but doesn't state "All humans are mortal."
-* guignol - a puppet, especially a hand puppet; a puppet show; a theatrical production featuring melodramatic tension, horror, and shock
-* emetic - a drug or agent that induces vomiting
-* salutary - producing a beneficial effect; promoting health
-* contumely - harsh language or treatment arising from haughtiness and contempt
-* maskirovka - Russian military deception, a military doctrine developed in the early 20th century that covers a broad range of measures from camouflage, imitation with decoys and dummies, manoeuvres intended to deceive, denial, and disinformation.
-* refulgence - a radiant or resplendent quality or state
-* realpolitik - politics based on practical and material factors rather than on theoretical or ethical objectives
-* anodyne - serving to alleviate pain; not likely to offend or arouse tensions, innocuous; something that soothes, calms, or comforts
-* intellection - an act or exercise of the intellect
-* duumvir - one of two people jointly holding power
-* panjandrum - a powerful personage or pretentious official
-* keloid - a thick scar resulting from excessive growth of fibrous tissue
-* esker - a long, narrow ridge or mound of sand, gravel, and boulders
+* glottophobia - linguistic xenophobia; discrimination against people based on their native language or dialect
+* touloungeaphobia - fear of tongues or swallowing your own tongue
+
 
 ## Pangrams:
 
