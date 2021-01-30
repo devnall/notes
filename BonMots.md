@@ -254,7 +254,18 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * panjandrum - a powerful personage or pretentious official
 * keloid - a thick scar resulting from excessive growth of fibrous tissue
 * esker - a long, narrow ridge or mound of sand, gravel, and boulders
-*
+* kalsarikännit - Finnish, literally "pantsdrunk" - the Finnish tradition of getting drunk at home in your underwear
+* ubuntu - Nguni/Zulu/Xhosa term meaning roughly "a quality that includes the essential human virtues of compassion and humanity"
+* sobremesa - Spanish (Spain) - the time you spend at the table after you've finished eating -- chatting, relaxing, joking
+* saudade - Portuguese - a pleasure that you suffer, or an ailment that you enjoy; also a melancholy nostalgia for something that perhaps has not even happened, and likely will never happen again
+* mamihlapinatapai - Yaghan (indigenous language of Tierra del Fuego) - a look shared between two people when both are wishing the other would do something that neither wants to do
+* greng-jai - Thai - when you don't want someone to do something for you because it would be a bother for him or her
+* ikigai - Japanese - the idea that you can and should find something that you love, are good at, that the world needs, and that you can be paid for; more simply, the thing(s) that brings you joy in your daily life
+* jayus - Indonesian - a joke so unfunny that one cannot help but laugh (bad puns, dad jokes, etc)
+* uitwaaien - Dutch - literally "outblowing"; doing some kind of physical activity, usually a walk or bike ride, outside in the wind
+* firgun - Hebrew - taking pleasure in another's good fortune, the opposite of chadenfreude
+* shemomechama - Georgian - when you are full but continue eating anyway -- usually because something tastes so good that you can't stop -- and it's the food's fault, not the eater's
+* 
 
 ## Paraphilias, Manias, and Phobias
 
