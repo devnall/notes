@@ -303,6 +303,22 @@ https://en.wikipedia.org/wiki/List_of_paraphilias
 * pteridophobia - fear of ferns
 * glottophobia - linguistic xenophobia; discrimination against people based on their native language or dialect
 * touloungeaphobia - fear of tongues or swallowing your own tongue
+* balatron - a jester or buffoon
+* bolus - a round mass, such as a large pill or soft mass of chewed food; a dose (often a large dose) of a substance or drug, given intravenously 
+* callipygian - having beautifully shaped buttocks
+* clangorous - a loud racket or din; a clang or repeated clanging
+* doddypoll (or dodipoll) - an unintelligent/stupid/thickheaded/foolish person
+* ebrious - drunk or tipsy; inclined to drink to excess
+* inamorata - a woman with whom one is in love or has an intimate relationship; a mistress
+* habilimented - clothed
+* pawky - shrewd and cunning, often in a humorous manner; arch; crafty; clever
+* katzenjammer - a loud, discordant noise; a hangover; a state of depression or bewilderment
+* pettifogging - quibbling over or placing undue emphasis on petty details; engaging in legal chicanery
+* singultus - the medical term for hiccups or a hiccup
+* spanandry - an extreme scarcity of males within a population or group
+* grinagog - a person who is always grinning, or grins without apparent reason
+* unasinous - characterized by the same amount of stupidity (setting your hands on fire and setting your feet on fire are unasinous); displaying ignorance or foolishness by all
+* bombilate - to buzz or hum
 
 
 ## Pangrams:
