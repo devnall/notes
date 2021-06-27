@@ -266,6 +266,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * firgun - Hebrew - taking pleasure in another's good fortune, the opposite of schadenfreude
 * shemomechama - Georgian - when you are full but continue eating anyway -- usually because something tastes so good that you can't stop -- and it's the food's fault, not the eater's
 * quiddity - the real nature or essence of thing OR a hairsplitting distincion or quibble
+* accouchement - the time or act of giving birth
 
 ## Paraphilias, Manias, and Phobias
 
