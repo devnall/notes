@@ -282,6 +282,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * grinagog - a person who is always grinning, or grins without apparent reason
 * unasinous - characterized by the same amount of stupidity (setting your hands on fire and setting your feet on fire are unasinous); displaying ignorance or foolishness by all
 * bombilate - to buzz or hum
+* accouchement - the time or act of giving birth
 * ultimate -> penultimate -> antepenultimate -> preantepenultimate
 
 ## Paraphilias, Manias, and Phobias
