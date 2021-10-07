@@ -284,6 +284,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * bombilate - to buzz or hum
 * accouchement - the time or act of giving birth
 * ultimate -> penultimate -> antepenultimate -> preantepenultimate
+* L'appel du Vide - fr. "the call of the void"; a strong or compelling (but not necessarily suicidal) urge to jump or fall from a high place
+* mono no aware - jap. "the pathos of things"; the awareness of impermanence or transience of things, and both a transient gentle sadness or wistfulness at their passing as well as a longer, deeper gentle sadness about this state being the reality of life
 
 ## Paraphilias, Manias, and Phobias
 
