@@ -289,6 +289,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * roué - a man devoted to a life of sensual pleasure
 * sternutation - the act or noise of sneezing
 * natant - swimming or floating
+* procrustean - exhibiting ruthless disregard for individual differences
 
 ## Paraphilias, Manias, and Phobias
 
