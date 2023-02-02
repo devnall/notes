@@ -391,6 +391,7 @@ A list of (mostly dumb and/or juvenile) band names (mostly spoonerisms/malapropi
 * A Well-Boiled Icicle
 * Tense Present
 * Charlie Brown Recluse
+* El Gemelo Malvado (The Evil Twin en espanol)
 
 
 ## Interesting Facts:
