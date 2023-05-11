@@ -290,6 +290,9 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * sternutation - the act or noise of sneezing
 * natant - swimming or floating
 * procrustean - exhibiting ruthless disregard for individual differences
+* hysteron-proteron - a cart-before-the-horse figure of speech in which what should come last is put first. e.g. "put on my shoes and socks" or "Let us die, and charge into the thick of the fight"
+* trochee - a two-syllable word where the first syllable is stressed. Originally a poetic device ("poet" is a trochee, in fact) but also heavily used in marketing/branding -- Facebook, Meta, Google, TikTok, etc are all trochees.
+*
 
 ## Paraphilias, Manias, and Phobias
 
