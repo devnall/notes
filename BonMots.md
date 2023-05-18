@@ -292,6 +292,17 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * procrustean - exhibiting ruthless disregard for individual differences
 * hysteron-proteron - a cart-before-the-horse figure of speech in which what should come last is put first. e.g. "put on my shoes and socks" or "Let us die, and charge into the thick of the fight"
 * trochee - a two-syllable word where the first syllable is stressed. Originally a poetic device ("poet" is a trochee, in fact) but also heavily used in marketing/branding -- Facebook, Meta, Google, TikTok, etc are all trochees.
+* croochie-proochles - Scottish dialect; the feeling of discomfort or fidgetiness that comes from sitting in a cramped position
+* nikhedonia - the feeling of excitement or elation that comes from anticipating success
+* alysm - the feeling of restlessness or frustrated boredom that comes from being unwell or sick
+* shivviness - the feeling of discomfort that comes from wearing new underwear; Yorkshire dialect
+* deja-visite - (French) the peculiar sensation of knowing your way around somewhere you've never been before
+* presque-vu - (French) the sensation of forgetting or not being able to remember something, but feeling like you could remember it at any second
+* gwenders - the tingling sensation in one's fingers when they're cold
+* euneirophrenia - the feeling of contentment that comes from waking up from a pleasant dream
+* malneirophrenia - the feeling of enease or unhappiness that comes from waking up from a nightmare
+* horror vacui - (Latin) a dislike of leaving an empty space anywhere -- e.g. on a wall or in furninishing a room; also, the tendency of some artists to fill every bit of their paintings or artworks with details
+* crapulence - sickness or indisposition resulting from excess in drinking or eating
 *
 
 ## Paraphilias, Manias, and Phobias
