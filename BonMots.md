@@ -356,6 +356,7 @@ Phrases that use at least one of each letter of the alphabet. Fewest letters "wi
 * Pack my box with five dozen liquor jugs. (32)
 * The quick brown fox jumps over the lazy dog. (35)
 * Jinxed wizards pluck ivy from the big quilt. (36)
+* Grumpy wizards make a toxic brew for the jovial queen. (44)
 * Crazy Fredrick bought many very exquisite opal jewels. (46)
 * We promptly judged antique ivory buckles for the next prize. (50)
 * A mad boxer shot a quick, gloved jab to the jaw of his dizzy opponent. (54)
