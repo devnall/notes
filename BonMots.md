@@ -309,9 +309,6 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * accession - n. something added to what you already have; v. make a record of additions to a collection, such as a library or museum
 *
 
-
->>>>>>> Stashed changes
-
 ## Paraphilias, Manias, and Phobias
 
 https://en.wikipedia.org/wiki/List_of_paraphilias
