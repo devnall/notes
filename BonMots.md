@@ -304,6 +304,8 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * horror vacui - (Latin) a dislike of leaving an empty space anywhere -- e.g. on a wall or in furninishing a room; also, the tendency of some artists to fill every bit of their paintings or artworks with details
 * crapulence - sickness or indisposition resulting from excess in drinking or eating
 * paraprosdokian - a figure of speech in which the latter part of the sentence, phrase, or larger discourse is surprising or unexpected in way that causes the listener to reframe or reinterpret the first part -- frequently used for comedic effect. E.G. "Take my wife...please!"
+* arriviste - a new and uncertain arrival, as in a social position or artistic endeavor. Usually implies that the new arrival hasn't been full accepted by their new community. Often also has an implication that the new arrival got there via unscrupulous or self-serving means.
+*
 
 ## Paraphilias, Manias, and Phobias
 
