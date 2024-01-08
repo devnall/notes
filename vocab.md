@@ -305,4 +305,5 @@ A collection of words and phrases that I find interesting.
 * arriviste - a new and uncertain arrival, as in a social position or artistic endeavor. Usually implies that the new arrival hasn't been full accepted by their new community. Often also has an implication that the new arrival got there via unscrupulous or self-serving means.
 * deaccessioning - the process by which a work of art is permanently removed from a museum's collection to sell or otherwise dispose of it.
 * accession - n. something added to what you already have; v. make a record of additions to a collection, such as a library or museum
+* deckle edge - paper with a feathered (rather than cleanly cut) edge, as in most books made prior to the 19th century.
 *
