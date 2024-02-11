@@ -306,4 +306,15 @@ A collection of words and phrases that I find interesting.
 * deaccessioning - the process by which a work of art is permanently removed from a museum's collection to sell or otherwise dispose of it.
 * accession - n. something added to what you already have; v. make a record of additions to a collection, such as a library or museum
 * deckle edge - paper with a feathered (rather than cleanly cut) edge, as in most books made prior to the 19th century.
+* velutinous - covered with a fine and dense silky pubescence; velvety
+* pubescent - covered with fine soft short hairs
+* villous - having soft long hairs
+* hibernaculum - a shelter occupied during the winter by a dormant animal
+* refluent - flowing back
+* superjacent - lying above or upon; overlying
+* officinal - tending or used to cure disease or relieve pain; medicinal
+* tortuous - having repeated twists, bends, or turns; marked by devious or indirect tactics
+* torturous - extremely painful
+* vibrissa - the stiff hairs around the snouts of many mammals; human nose hairs; the bristly feathers around the mouths of birds
+* snaffle - to obtain, especially by devious or irregular means
 *
