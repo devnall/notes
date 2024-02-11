@@ -317,4 +317,5 @@ A collection of words and phrases that I find interesting.
 * torturous - extremely painful
 * vibrissa - the stiff hairs around the snouts of many mammals; human nose hairs; the bristly feathers around the mouths of birds
 * snaffle - to obtain, especially by devious or irregular means
+* lazarous - leprous; full of disease
 *
