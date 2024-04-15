@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/List_of_paraphilias
 * apodysophilia - A feverish desire or undue eagerness to undress
 
 * clinomania - a obsessive or abnormal desire to stay in bed
+* trichotillomania - an abnormal desire to pull out one's hair
 
 * sesquipedaliophobia - fear of long words (alternately Hippopotomonstro-Sesquipedaliophobia)
 * ochlophobia or enochlophobia - fear of crowds
