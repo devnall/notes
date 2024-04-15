@@ -319,4 +319,23 @@ A collection of words and phrases that I find interesting.
 * snaffle - to obtain, especially by devious or irregular means
 * lazarous - leprous; full of disease
 * idiopathic - a disease or malady arising from an unknown cause
+* picaresque - involving clever rogues or adventurers, especially as in a type of fiction
+* pied-a-terre - a temporary or second lodging
+* nostrum - a usually questionable remedy or scheme
+* evitable - capable of being avoided
+* farraginous - consisting of a confused mixture; formed of various materials in no fixed order or arrangement
+* palmy - marked by prosperity; flourishing
+* daedal - (adj) skillful, artisitic; intricate; adorned with many things
+* deglutition - the act or process of swallowing
+* Panglossian - marked by the biew that all is for the best in this best of possible worlds; excessively optimistic
+* hegira - a journey when undertaken to escape from a dangerous or undesirable situation; exodus
+* ramose - consisting of or having branches
+* zeitgeber - an environmental agent or event (e.g. the occurrence of light or dark) that provides the stimulus setting or resetting a biological clock of an organism
+* rugose - full of wrinkles
+* scuttlebutt - a cask on a ship to hold freshwater for a day's use; a drinking fountain on a ship or at a naval or marine installation
+* fleer - a word or look of derision or mockery
+* xeriscape - a landscaping method for arid climates that utilizes water-conserving techniques
+* flavedo - the colored outer layer of the rind of a citrus fruit
+* sempiternal - eternal; never-ending
+* vernissage - a private showing or preview of an art exhibition
 *
