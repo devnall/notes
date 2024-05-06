@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/List_of_paraphilias
 * gynotikolobomassophile - one who loves to nibble women's earlobes
 * symphorophilia - a paraphilia in which sexual arousal involves staging and watching a tragedy, such as a fire or a traffic accident
 * ailurophilia - a liking for cats, as by cat fanciers
+* turophile - a connoisseur of cheese
 * tyrosemiophile - One who collects cheese labels.
 * apodysophilia - A feverish desire or undue eagerness to undress
 

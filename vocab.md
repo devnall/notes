@@ -338,4 +338,10 @@ A collection of words and phrases that I find interesting.
 * flavedo - the colored outer layer of the rind of a citrus fruit
 * sempiternal - eternal; never-ending
 * vernissage - a private showing or preview of an art exhibition
+* quintessence - the essence of a thing in its purest and most concentrated form
+* hachure - using short lines for shading or denoting surfaces in relief, as in map drawing
+* grubstake - to provide a loan for launching an enterprise or for a person in difficult circumstances
+* puissant - of great force or vigor; strong, powerful
+* conventicle - an unlawful assembly; an assembly for religious worship (especially when secret and/or unlawful)
+* anent - about, concerning, in regards to
 *
