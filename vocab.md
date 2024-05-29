@@ -344,4 +344,6 @@ A collection of words and phrases that I find interesting.
 * puissant - of great force or vigor; strong, powerful
 * conventicle - an unlawful assembly; an assembly for religious worship (especially when secret and/or unlawful)
 * anent - about, concerning, in regards to
-*
+* aponia - the absence of bodily or physical pain, relevant to Epicureanism
+* ataraxia - the absence of mental pain; a state of mental tranquility
+* jackanapes - an impudent or conceited fellow; a saucy or mischievous child
