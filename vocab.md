@@ -347,3 +347,4 @@ A collection of words and phrases that I find interesting.
 * aponia - the absence of bodily or physical pain, relevant to Epicureanism
 * ataraxia - the absence of mental pain; a state of mental tranquility
 * jackanapes - an impudent or conceited fellow; a saucy or mischievous child
+* psephology - the study of political elections and voting statistics
