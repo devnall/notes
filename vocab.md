@@ -348,3 +348,4 @@ A collection of words and phrases that I find interesting.
 * ataraxia - the absence of mental pain; a state of mental tranquility
 * jackanapes - an impudent or conceited fellow; a saucy or mischievous child
 * psephology - the study of political elections and voting statistics
+* legerdemain - sleight of hand; a display of skill or adroitness
