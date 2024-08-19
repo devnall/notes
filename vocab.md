@@ -351,3 +351,5 @@ A collection of words and phrases that I find interesting.
 * legerdemain - sleight of hand; a display of skill or adroitness
 * vexilology - the study of or interest in flags, particularly their history, symbolism, and usage
 * genitourinary - of or relating to the genital and urinary organs or functions
+* lethologica - the inability to remember the right word, when you blank on a word or it's on the tip of your tongue
+* lethonomia - the inability to remember a person's name
