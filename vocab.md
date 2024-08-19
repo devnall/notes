@@ -349,3 +349,5 @@ A collection of words and phrases that I find interesting.
 * jackanapes - an impudent or conceited fellow; a saucy or mischievous child
 * psephology - the study of political elections and voting statistics
 * legerdemain - sleight of hand; a display of skill or adroitness
+* vexilology - the study of or interest in flags, particularly their history, symbolism, and usage
+* genitourinary - of or relating to the genital and urinary organs or functions

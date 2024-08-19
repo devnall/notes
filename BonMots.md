@@ -107,7 +107,7 @@ A list of (mostly dumb and/or juvenile) band names (mostly spoonerisms/malapropi
 * El Gemelo Malvado (The Evil Twin en espanol)
 
 
-## Interesting Facts:
+## Interesting Tidbits:
 
 Random facts that I find interesting and/or funny.
 
@@ -122,7 +122,9 @@ Tiffany thought a lot about words, in the long hours of churning butter. 'Onomat
 Glint, for example. If light made a noise as it reflected off a distant window, it'd go 'glint!' And the light of tinsel, all those little glints chiming together, would make a noise like 'glitterglitter'. 'Gleam' was a clean, smooth noise from a surface that intended to shine all day. And 'glisten' was the soft, almost greasy sound of something rich and oily.
 ```
 Follow-up: "phonestheme" may work, see https://english.stackexchange.com/a/456359
- 
+* Good line from somethingawful forums in response to "How's it going?": Same eagle, different liver.
+
+
 ## Dad Jokes
 - Why do Norwegian warships have a barcode on the side of them? So they can Scandanavian.
 - What's the difference between a hippo and a zippo? One weighs a ton and the other is a little lighter.
