@@ -353,3 +353,6 @@ A collection of words and phrases that I find interesting.
 * genitourinary - of or relating to the genital and urinary organs or functions
 * lethologica - the inability to remember the right word, when you blank on a word or it's on the tip of your tongue
 * lethonomia - the inability to remember a person's name
+* cromulent - acceptable, satisfactory (word invented in The Simpsons which has become a nerd shibboleth)
+* desultory - marked by a lack of a definite plan or purpose; disappointing in quality or performance 
+* putsch - a sudden and decisive change of government illegally or by force
