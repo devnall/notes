@@ -356,3 +356,28 @@ A collection of words and phrases that I find interesting.
 * cromulent - acceptable, satisfactory (word invented in The Simpsons which has become a nerd shibboleth)
 * desultory - marked by a lack of a definite plan or purpose; disappointing in quality or performance 
 * putsch - a sudden and decisive change of government illegally or by force
+* monopsony - a market structure in which a single buyer sunstantially controls the market as the major purchaser of goods and services offered by many would-be sellers
+* deleterious - harmful, often in a subtle or unexpected way
+* roister - to engage in noisy revelry; carouse
+* catercorner - in a diagonal or oblique position
+* pinchbeck - something counterfeit or spurious; or an allor of copper and zinc used especially to imitate gold in jewelry
+* baksheesh - payment (as a tip or bribe) to expedite service
+* duende - the power to attract through personal magnetism and charm
+* depone - to assert under oath; testify
+* eleemosynary - of, relating to, or supported by charity
+* star-chamber - (adj) characterized by secrecy and often being irresponsibly arbitrary and oppressive
+* sidereal - of, relating to, or expressed in realtion to strs or constellations; astral
+* diapause - a period of physiologically enforced dormancy between periods of activity
+* cavil - to raise trivial and frivolous objection
+* belvedere - a structure (such as a cupola or summerhouse) designed to command a view
+* pluvial - of, relating to, or characterized by rain; or resulting from the action of rain
+* welkin - heaven, the firmament, the vault of the sky, the celestial abode of God or the gods; or the upper atmosphere
+* embonpoint - stoutness or plumpness
+* rodomontade - bragging speech; vain boasting or bluster
+* muliebrity - femininity
+* festinate - hasty
+* demotic - common, popular
+* pediculous - infested with lice; lousy
+* pridian - former; or relating to a previous day or yesterday
+* gloze - to mask the true nature of something or give a decpetively attractive appearance to; or to deal with a problem too lightly or not at all
+* hustings - a place where political campaign speeches are made; or the proceedings or place of an election campaign
