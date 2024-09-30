@@ -327,7 +327,7 @@ A collection of words and phrases that I find interesting.
 * palmy - marked by prosperity; flourishing
 * daedal - (adj) skillful, artisitic; intricate; adorned with many things
 * deglutition - the act or process of swallowing
-* Panglossian - marked by the biew that all is for the best in this best of possible worlds; excessively optimistic
+* Panglossian - marked by the view that all is for the best in this best of possible worlds; excessively optimistic
 * hegira - a journey when undertaken to escape from a dangerous or undesirable situation; exodus
 * ramose - consisting of or having branches
 * zeitgeber - an environmental agent or event (e.g. the occurrence of light or dark) that provides the stimulus setting or resetting a biological clock of an organism
@@ -360,7 +360,7 @@ A collection of words and phrases that I find interesting.
 * deleterious - harmful, often in a subtle or unexpected way
 * roister - to engage in noisy revelry; carouse
 * catercorner - in a diagonal or oblique position
-* pinchbeck - something counterfeit or spurious; or an allor of copper and zinc used especially to imitate gold in jewelry
+* pinchbeck - something counterfeit or spurious; or an alloy of copper and zinc used especially to imitate gold in jewelry
 * baksheesh - payment (as a tip or bribe) to expedite service
 * duende - the power to attract through personal magnetism and charm
 * depone - to assert under oath; testify
@@ -381,3 +381,8 @@ A collection of words and phrases that I find interesting.
 * pridian - former; or relating to a previous day or yesterday
 * gloze - to mask the true nature of something or give a decpetively attractive appearance to; or to deal with a problem too lightly or not at all
 * hustings - a place where political campaign speeches are made; or the proceedings or place of an election campaign
+* anatopistic - when a person, thing, or idea is shown (e.g. in a book or movie) in a place where it did or could not have really existed. similar to an anachronism but a thing out of place instead of time
+* anthimeria - using one part of speech as another. E.G. using a noun as a verb - The old lady turtled along.
+* abecedarian - alphabetically arranged, as for beginning readers
+* soubhiyé - (Arabic) the quiet time in the morning when no one else is awake and you have some time to yourself
+*
