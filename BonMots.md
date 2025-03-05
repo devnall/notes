@@ -2,7 +2,7 @@
 
 A collection of philias/manias, puns, pangrams, trivia, and other bits that I find interesting.
 
-## Paraphilias, Manias, and Phobias
+## Paraphilias, Manias, Phobias, and Phagias
 
 https://en.wikipedia.org/wiki/List_of_paraphilias
 
@@ -41,6 +41,36 @@ https://en.wikipedia.org/wiki/List_of_paraphilias
 * glottophobia - linguistic xenophobia; discrimination against people based on their native language or dialect
 * touloungeaphobia - fear of tongues or swallowing your own tongue
 
+* onychophagia - the habit of nail biting
+* sialoaerophagy - frequent swallowing of air and/or saliva
+* pseudodysphagia - "severe" is an irrational fear of swallowing; "minor" is the fear of choking
+* allotriophagy - a desire for unusual or abnormal foods
+* hematophagy - feeding on blood (e.g. vampire bats)
+* hyperphagia - abnormally increased appetite for and consumption of food
+* bradyphagia - abnormal slowness in/of eating
+* psomophagia - the practice of swallowing food without thorough mastication
+* xerophagia - fasting, for religious or other purposes OR the act/custom of eating only dry food or a very light diet
+* omophagia - the eating of raw food, especially meat
+* pica - the general psychological disorder characterized by an appetite for or compulsion to eat supstances that are largely non-nutritive and often inedible.
+* chthonophagia - dirt or earth
+* geophagia - dirt, earth, soil, clay, chalk
+* dermatophagia - a compulsion to gnaw or bite one's own skin, most commonly at the fingers
+* trichophagia - hair, wool, other fibers
+* necrophagia - dead bodies or carrion
+* coprophagia - excrement
+* pagophagia - ice
+* acuphagia - sharp objects
+* cautopyreiophagia - burnt matches
+* coniophagia - dust
+* emetophagia - vomit
+* geomelophagia - raw potatoes
+* hyalophagia - glass
+* lithophagia - stones
+* metallophagia - metal
+* mucophagia - mucus
+* plumbophagia - lead
+* urophagia - urine
+* xylophagia - wood, or derivatives such as paper
 
 ## Pangrams:
 
