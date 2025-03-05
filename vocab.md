@@ -385,4 +385,6 @@ A collection of words and phrases that I find interesting.
 * anthimeria - using one part of speech as another. E.G. using a noun as a verb - The old lady turtled along.
 * abecedarian - alphabetically arranged, as for beginning readers
 * soubhiyé - (Arabic) the quiet time in the morning when no one else is awake and you have some time to yourself
-*
+* volte-face - (pron. "volt foss") a reversal in policy
+* prolixity - boring verbosity
+* recherché - exquisite; exotic or rare. or pretentious, overblown.
