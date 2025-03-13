@@ -388,3 +388,7 @@ A collection of words and phrases that I find interesting.
 * volte-face - (pron. "volt foss") a reversal in policy
 * prolixity - boring verbosity
 * recherché - exquisite; exotic or rare. or pretentious, overblown.
+* coeval - of the same or equal age, antuiquity, or duration
+* infrangible - not capable of being broken or separated into parts; not to be infringed or violated
+* legerity - alert facile quickness of mind or body
+* commodious - comfortably or conviently spacious; roomy
