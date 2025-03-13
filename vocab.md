@@ -392,3 +392,15 @@ A collection of words and phrases that I find interesting.
 * infrangible - not capable of being broken or separated into parts; not to be infringed or violated
 * legerity - alert facile quickness of mind or body
 * commodious - comfortably or conviently spacious; roomy
+* majuscule - a large letter (as a capital)
+* jejune - devoid of significance or interest, dull; juvenile, puerile; lacking nutritive value
+* ignis fatuus - "fools fire", a light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter; a deceptive goal or hope
+* nodus - complication, difficulty
+* longanimity - a disposition to bear injuries patientyly; forbearance
+* pareidolia - the tendency to perceive a specific, often meaningful, image in a random or ambiguous visual pattern
+* mot juste - the exactly right word or phrasing
+* martinet - a strict disciplinarian; a person who stresses a rigid adherence to the details of forms and methods
+* nychthemeron - a full period of a night and a day
+* hypaethral - having a roofless central space; open to the sky
+* orotund - marked by fullness, strength, and clarity of sound, sonorous; pompous, bombastic
+* kibitzer - one who looks on and often offers unwanted advice or comment
