@@ -404,3 +404,10 @@ A collection of words and phrases that I find interesting.
 * hypaethral - having a roofless central space; open to the sky
 * orotund - marked by fullness, strength, and clarity of sound, sonorous; pompous, bombastic
 * kibitzer - one who looks on and often offers unwanted advice or comment
+* perendinate - to keep delaying something until the next day (...and the next, and the next...)
+* groke - to stare at someone while they eat, hoping they'll give you food
+* ultracrepidarian - a person who gives opinions on things that they know nothing about
+* pingle - to play with your food instead of eating it
+* snollygoster - a dishonest politician who cares only for personal gain
+* mumpsimus - a person who sticks to old habits or beliefs even after being proven wrong
+* strikhedonia - the joy of deciding to give up on something
