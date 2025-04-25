@@ -411,3 +411,4 @@ A collection of words and phrases that I find interesting.
 * snollygoster - a dishonest politician who cares only for personal gain
 * mumpsimus - a person who sticks to old habits or beliefs even after being proven wrong
 * strikhedonia - the joy of deciding to give up on something
+* calefactory - a room or building in a medieval monastery where the communal fire was kept ablaze so that monks could warm themselves after long hours of study in the unheated cloister; modern religious houses often have a calefactory for social gatherings or meetings
