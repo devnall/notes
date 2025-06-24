@@ -414,3 +414,4 @@ A collection of words and phrases that I find interesting.
 * calefactory - a room or building in a medieval monastery where the communal fire was kept ablaze so that monks could warm themselves after long hours of study in the unheated cloister; modern religious houses often have a calefactory for social gatherings or meetings
 * ressentiment - deep-seated resentment, frustration, and hostility accompanied by a sense of being powerless to express these feelings directly
 * éclaircissement - a clearing up of something obscure; enlightenment
+* fumarole - a hole in a volcanic region from which hot gasses and vapors issue
