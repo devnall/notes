@@ -417,3 +417,6 @@ A collection of words and phrases that I find interesting.
 * fumarole - a hole in a volcanic region from which hot gasses and vapors issue
 * redound - to have an effect or consequence; to return or recoil; to roll back or be sent or driven back
 * ombré - having colors or tones that shade into each other
+* limerence - a state of involuntary obsession with another person, based on an uncertainty of whether the desire is reciprocated; lovesickness
+* eschatology - a belief concerning death, the end of the world, or the ultimate destiny of humankind
+* evitable - capable of being avoided (as opposed to the more common inevitable)
