@@ -420,3 +420,4 @@ A collection of words and phrases that I find interesting.
 * limerence - a state of involuntary obsession with another person, based on an uncertainty of whether the desire is reciprocated; lovesickness
 * eschatology - a belief concerning death, the end of the world, or the ultimate destiny of humankind
 * evitable - capable of being avoided (as opposed to the more common inevitable)
+* vitiate - to make faulty or defective, or ineffective, or to debase in moral or aesthetic status
