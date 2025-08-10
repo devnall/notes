@@ -422,3 +422,6 @@ A collection of words and phrases that I find interesting.
 * evitable - capable of being avoided (as opposed to the more common inevitable)
 * vitiate - to make faulty or defective, or ineffective, or to debase in moral or aesthetic status
 * obloquy - abusively detractive language; ill repute
+* anomie - social instability resulting from a breakdown of standards and values; personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals
+* encomium - a piece of writing, speech, etc. that praises someone or something, oftem glowingly and enthusiastically 
+* lacuna - a blank space or missing part, especially in a book or other piece of writing; a gap, cavity, pit, or discontinuity in a structure
