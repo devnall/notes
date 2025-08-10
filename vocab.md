@@ -421,3 +421,4 @@ A collection of words and phrases that I find interesting.
 * eschatology - a belief concerning death, the end of the world, or the ultimate destiny of humankind
 * evitable - capable of being avoided (as opposed to the more common inevitable)
 * vitiate - to make faulty or defective, or ineffective, or to debase in moral or aesthetic status
+* obloquy - abusively detractive language; ill repute
