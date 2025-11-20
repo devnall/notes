@@ -289,6 +289,7 @@ A collection of words, phrases, puns, trivia, etc. that I find interesting.
 * roué - a man devoted to a life of sensual pleasure
 * sternutation - the act or noise of sneezing
 * natant - swimming or floating
+* semordnilap - a word/phrase/sentence that, when reversed, forms a different word/phrase/sentence; e.g. desserts/stressed, live/evil, diaper, repair
 
 ## Paraphilias, Manias, and Phobias
 
