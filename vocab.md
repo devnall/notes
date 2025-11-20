@@ -1,8 +1,6 @@
-# BonMots.md
+# vocab.md 
 
-A collection of philias/manias, puns, pangrams, trivia, and other bits that I find interesting.
-
-## Vocab & Phrases:
+A collection of words and phrases that I find interesting.
 
 * pandiculation - stretching, especially right after waking up or when sleepy/fatigued
 * thaumaturgy - the performing of miracles or magic
@@ -289,163 +287,144 @@ A collection of philias/manias, puns, pangrams, trivia, and other bits that I fi
 * roué - a man devoted to a life of sensual pleasure
 * sternutation - the act or noise of sneezing
 * natant - swimming or floating
-* semordnilap - a word/phrase/sentence that, when reversed, forms a different word/phrase/sentence; e.g. desserts/stressed, live/evil, diaper, repair
-
-## Paraphilias, Manias, Phobias, and Phagias
-
-https://en.wikipedia.org/wiki/List_of_paraphilias
-
-* gynotikolobomassophile - one who loves to nibble women's earlobes
-* symphorophilia - a paraphilia in which sexual arousal involves staging and watching a tragedy, such as a fire or a traffic accident
-* ailurophilia - a liking for cats, as by cat fanciers
-* turophile - a connoisseur of cheese
-* tyrosemiophile - One who collects cheese labels.
-* apodysophilia - A feverish desire or undue eagerness to undress
-
-* clinomania - a obsessive or abnormal desire to stay in bed
-* trichotillomania - an abnormal desire to pull out one's hair
-
-* sesquipedaliophobia - fear of long words (alternately Hippopotomonstro-Sesquipedaliophobia)
-* ochlophobia or enochlophobia - fear of crowds
-* mysophobia - fear of dirt or filth
-* ablutophobia - fear of cleaning, washing, or bathing
-* nomophobia - fear of being out of a phone's range of service, phone being out of battery, or lost/misplaced phone
-* ancraophobia or anemophobia - fear of wind
-* spectrophobia or catoptrophobia - fear of mirrors or one's own relection
-* linonophobia - fear of string
-* chorophobia - fear of dancing or a situation involving dancing
-* arachibutyrophobia - fear of peanut butter or, specifically, peanut butter sticking to the roof of the mouth
-* didaskaleinophobia - fear of school or going to school
-* automatonophobia - fear of human-like figures (wax sculptures, statues, mannequins, etc.)
-* chronomentrophobia - fear of clocks
-* coulrophobia - fear of clowns
-* ephebiphobia - fear of teenagers
-* genuphobia - fear of knees
-* koinoniphobia - fear of rooms
-* mageirocophobia - fear of cooking
-* nosocomephobia - fear of hospitals
-* philematophobia - fear of kissing
-* phobophobia - fear of phobias
-* pteridophobia - fear of ferns
-* glottophobia - linguistic xenophobia; discrimination against people based on their native language or dialect
-* touloungeaphobia - fear of tongues or swallowing your own tongue
-
-* onychophagia - the habit of nail biting
-* sialoaerophagy - frequent swallowing of air and/or saliva
-* pseudodysphagia - "severe" is an irrational fear of swallowing; "minor" is the fear of choking
-* allotriophagy - a desire for unusual or abnormal foods
-* hematophagy - feeding on blood (e.g. vampire bats)
-* hyperphagia - abnormally increased appetite for and consumption of food
-* bradyphagia - abnormal slowness in/of eating
-* psomophagia - the practice of swallowing food without thorough mastication
-* xerophagia - fasting, for religious or other purposes OR the act/custom of eating only dry food or a very light diet
-* omophagia - the eating of raw food, especially meat
-* pica - the general psychological disorder characterized by an appetite for or compulsion to eat supstances that are largely non-nutritive and often inedible.
-* chthonophagia - dirt or earth
-* geophagia - dirt, earth, soil, clay, chalk
-* dermatophagia - a compulsion to gnaw or bite one's own skin, most commonly at the fingers
-* trichophagia - hair, wool, other fibers
-* necrophagia - dead bodies or carrion
-* coprophagia - excrement
-* pagophagia - ice
-* acuphagia - sharp objects
-* cautopyreiophagia - burnt matches
-* coniophagia - dust
-* emetophagia - vomit
-* geomelophagia - raw potatoes
-* hyalophagia - glass
-* lithophagia - stones
-* metallophagia - metal
-* mucophagia - mucus
-* plumbophagia - lead
-* urophagia - urine
-* xylophagia - wood, or derivatives such as paper
-
-## Pangrams:
-
-Phrases that use at least one of each letter of the alphabet. Fewest letters "wins".
-
-* Waltz, bad nymph, for quick jigs vex. (28)
-* Quick zephyrs blow, vexing daft Jim. (29)
-* Sphinx of black quartz, judge my vow. (29)
-* Two driven jocks help fax my big quiz. (30)
-* Five quacking zephyrs jolt my wax bed. (31)
-* The five boxing wizards jump quickly. (31)
-* Pack my box with five dozen liquor jugs. (32)
-* The quick brown fox jumps over the lazy dog. (35)
-* Jinxed wizards pluck ivy from the big quilt. (36)
-* Grumpy wizards make a toxic brew for the jovial queen. (44)
-* Crazy Fredrick bought many very exquisite opal jewels. (46)
-* We promptly judged antique ivory buckles for the next prize. (50)
-* A mad boxer shot a quick, gloved jab to the jaw of his dizzy opponent. (54)
-* Jaded zombies acted quaintly but kept driving their oxen forward. (55)
-* The job requires extra pluck and zeal from every young wage earner. (55)
-
-
-## Original portmanteaus and puns:
-
-Dumb stuff that I believe I thought up on my own but probably stole without realizing it.
-
-* Der Strøöpwaffle Häusen
-* Resume line: Excellent attention to detale.
-* vu déjá - when something actually does happen twice, but you don't remember the first time it happened
-* Paradoxymoron
-* Defensestration - throwing oneself out a window in self-defense (e.g. to avoid being shot)
-* Slackadaisical - a lackadaisical slacker
-* I'm like the angle opposite the hypotenuse -- always right
-* sarchasm - (neologism) the gulf between the person who makes a sarcastic comment and the person who doesn't get it
-
-
-## Toasts
-
-"May the winds of fortune guide you. May you sail a gentle sea. And may it always be the other guy who says 'This drink's on me'."
-
-
-## Band Names:
-
-A list of (mostly dumb and/or juvenile) band names (mostly spoonerisms/malapropisms/puns)
-
-* Cataclysmic Converter
-* Vagina Antlers
-* Pears and Hate
-* Cornhole Backhoe
-* Douche Rocket
-* Inept Lovemachine
-* Amish Caveman
-* Clitoral Havoc
-* Mummy Hug
-* Meat Sock
-* Gangstarr Runner
-* Dual Head Dongle
-* Mushroom Clown
-* Midwife Crisis
-* Cervixalot
-* A Well-Boiled Icicle
-* Tense Present
-* Charlie Brown Recluse
-* El Gemelo Malvado (The Evil Twin en espanol)
-
-
-## Interesting Tidbits:
-
-Random facts that I find interesting and/or funny.
-
-* Before Mergenthaler's invention of the Linotype in 1884, no newspaper in the world had more than eight pages.
-* The Italian version of "You can't have your cake and eat it too" is "You want your bottle full of wine and your wife drunk"
-* A neat passage from Terry Brooks:
-```
-Glint, glisten, glitter, gleam...
-
-Tiffany thought a lot about words, in the long hours of churning butter. 'Onomatopoeic', she'd discovered in the dictionary, meant words that sounded like the noise of the thing they were describing, like 'cuckoo'. But she thought there should be a word meaning 'a word that sounds like the noise a thing would make if that thing made a noise even though, actually, it doesn't, but would if it did.'
-
-Glint, for example. If light made a noise as it reflected off a distant window, it'd go 'glint!' And the light of tinsel, all those little glints chiming together, would make a noise like 'glitterglitter'. 'Gleam' was a clean, smooth noise from a surface that intended to shine all day. And 'glisten' was the soft, almost greasy sound of something rich and oily.
-```
-Follow-up: "phonestheme" may work, see https://english.stackexchange.com/a/456359
-* Good line from somethingawful forums in response to "How's it going?": Same eagle, different liver.
-
-
-## Dad Jokes
-- Why do Norwegian warships have a barcode on the side of them? So they can Scandanavian.
-- What's the difference between a hippo and a zippo? One weighs a ton and the other is a little lighter.
-- A man goes to the doctor and says "I think I have hearing problems." The doctor says "Can you describe the symptoms?" The guys says "Sure, Homer's fat and Marge has blue hair."
-
+* procrustean - exhibiting ruthless disregard for individual differences
+* hysteron-proteron - a cart-before-the-horse figure of speech in which what should come last is put first. e.g. "put on my shoes and socks" or "Let us die, and charge into the thick of the fight"
+* trochee - a two-syllable word where the first syllable is stressed. Originally a poetic device ("poet" is a trochee, in fact) but also heavily used in marketing/branding -- Facebook, Meta, Google, TikTok, etc are all trochees.
+* croochie-proochles - Scottish dialect; the feeling of discomfort or fidgetiness that comes from sitting in a cramped position
+* nikhedonia - the feeling of excitement or elation that comes from anticipating success
+* alysm - the feeling of restlessness or frustrated boredom that comes from being unwell or sick
+* shivviness - the feeling of discomfort that comes from wearing new underwear; Yorkshire dialect
+* deja-visite - (French) the peculiar sensation of knowing your way around somewhere you've never been before
+* presque-vu - (French) the sensation of forgetting or not being able to remember something, but feeling like you could remember it at any second
+* gwenders - the tingling sensation in one's fingers when they're cold
+* euneirophrenia - the feeling of contentment that comes from waking up from a pleasant dream
+* malneirophrenia - the feeling of enease or unhappiness that comes from waking up from a nightmare
+* horror vacui - (Latin) a dislike of leaving an empty space anywhere -- e.g. on a wall or in furninishing a room; also, the tendency of some artists to fill every bit of their paintings or artworks with details
+* crapulence - sickness or indisposition resulting from excess in drinking or eating
+* paraprosdokian - a figure of speech in which the latter part of the sentence, phrase, or larger discourse is surprising or unexpected in way that causes the listener to reframe or reinterpret the first part -- frequently used for comedic effect. E.G. "Take my wife...please!"
+* arriviste - a new and uncertain arrival, as in a social position or artistic endeavor. Usually implies that the new arrival hasn't been full accepted by their new community. Often also has an implication that the new arrival got there via unscrupulous or self-serving means.
+* deaccessioning - the process by which a work of art is permanently removed from a museum's collection to sell or otherwise dispose of it.
+* accession - n. something added to what you already have; v. make a record of additions to a collection, such as a library or museum
+* deckle edge - paper with a feathered (rather than cleanly cut) edge, as in most books made prior to the 19th century.
+* velutinous - covered with a fine and dense silky pubescence; velvety
+* pubescent - covered with fine soft short hairs
+* villous - having soft long hairs
+* hibernaculum - a shelter occupied during the winter by a dormant animal
+* refluent - flowing back
+* superjacent - lying above or upon; overlying
+* officinal - tending or used to cure disease or relieve pain; medicinal
+* tortuous - having repeated twists, bends, or turns; marked by devious or indirect tactics
+* torturous - extremely painful
+* vibrissa - the stiff hairs around the snouts of many mammals; human nose hairs; the bristly feathers around the mouths of birds
+* snaffle - to obtain, especially by devious or irregular means
+* lazarous - leprous; full of disease
+* idiopathic - a disease or malady arising from an unknown cause
+* picaresque - involving clever rogues or adventurers, especially as in a type of fiction
+* pied-a-terre - a temporary or second lodging
+* nostrum - a usually questionable remedy or scheme
+* evitable - capable of being avoided
+* farraginous - consisting of a confused mixture; formed of various materials in no fixed order or arrangement
+* palmy - marked by prosperity; flourishing
+* daedal - (adj) skillful, artisitic; intricate; adorned with many things
+* deglutition - the act or process of swallowing
+* Panglossian - marked by the view that all is for the best in this best of possible worlds; excessively optimistic
+* hegira - a journey when undertaken to escape from a dangerous or undesirable situation; exodus
+* ramose - consisting of or having branches
+* zeitgeber - an environmental agent or event (e.g. the occurrence of light or dark) that provides the stimulus setting or resetting a biological clock of an organism
+* rugose - full of wrinkles
+* scuttlebutt - a cask on a ship to hold freshwater for a day's use; a drinking fountain on a ship or at a naval or marine installation
+* fleer - a word or look of derision or mockery
+* xeriscape - a landscaping method for arid climates that utilizes water-conserving techniques
+* flavedo - the colored outer layer of the rind of a citrus fruit
+* sempiternal - eternal; never-ending
+* vernissage - a private showing or preview of an art exhibition
+* quintessence - the essence of a thing in its purest and most concentrated form
+* hachure - using short lines for shading or denoting surfaces in relief, as in map drawing
+* grubstake - to provide a loan for launching an enterprise or for a person in difficult circumstances
+* puissant - of great force or vigor; strong, powerful
+* conventicle - an unlawful assembly; an assembly for religious worship (especially when secret and/or unlawful)
+* anent - about, concerning, in regards to
+* aponia - the absence of bodily or physical pain, relevant to Epicureanism
+* ataraxia - the absence of mental pain; a state of mental tranquility
+* jackanapes - an impudent or conceited fellow; a saucy or mischievous child
+* psephology - the study of political elections and voting statistics
+* legerdemain - sleight of hand; a display of skill or adroitness
+* vexilology - the study of or interest in flags, particularly their history, symbolism, and usage
+* genitourinary - of or relating to the genital and urinary organs or functions
+* lethologica - the inability to remember the right word, when you blank on a word or it's on the tip of your tongue
+* lethonomia - the inability to remember a person's name
+* cromulent - acceptable, satisfactory (word invented in The Simpsons which has become a nerd shibboleth)
+* desultory - marked by a lack of a definite plan or purpose; disappointing in quality or performance 
+* putsch - a sudden and decisive change of government illegally or by force
+* monopsony - a market structure in which a single buyer sunstantially controls the market as the major purchaser of goods and services offered by many would-be sellers
+* deleterious - harmful, often in a subtle or unexpected way
+* roister - to engage in noisy revelry; carouse
+* catercorner - in a diagonal or oblique position
+* pinchbeck - something counterfeit or spurious; or an alloy of copper and zinc used especially to imitate gold in jewelry
+* baksheesh - payment (as a tip or bribe) to expedite service
+* duende - the power to attract through personal magnetism and charm
+* depone - to assert under oath; testify
+* eleemosynary - of, relating to, or supported by charity
+* star-chamber - (adj) characterized by secrecy and often being irresponsibly arbitrary and oppressive
+* sidereal - of, relating to, or expressed in realtion to strs or constellations; astral
+* diapause - a period of physiologically enforced dormancy between periods of activity
+* cavil - to raise trivial and frivolous objection
+* belvedere - a structure (such as a cupola or summerhouse) designed to command a view
+* pluvial - of, relating to, or characterized by rain; or resulting from the action of rain
+* welkin - heaven, the firmament, the vault of the sky, the celestial abode of God or the gods; or the upper atmosphere
+* embonpoint - stoutness or plumpness
+* rodomontade - bragging speech; vain boasting or bluster
+* muliebrity - femininity
+* festinate - hasty
+* demotic - common, popular
+* pediculous - infested with lice; lousy
+* pridian - former; or relating to a previous day or yesterday
+* gloze - to mask the true nature of something or give a decpetively attractive appearance to; or to deal with a problem too lightly or not at all
+* hustings - a place where political campaign speeches are made; or the proceedings or place of an election campaign
+* anatopistic - when a person, thing, or idea is shown (e.g. in a book or movie) in a place where it did or could not have really existed. similar to an anachronism but a thing out of place instead of time
+* anthimeria - using one part of speech as another. E.G. using a noun as a verb - The old lady turtled along.
+* abecedarian - alphabetically arranged, as for beginning readers
+* soubhiyé - (Arabic) the quiet time in the morning when no one else is awake and you have some time to yourself
+* volte-face - (pron. "volt foss") a reversal in policy
+* prolixity - boring verbosity
+* recherché - exquisite; exotic or rare. or pretentious, overblown.
+* coeval - of the same or equal age, antuiquity, or duration
+* infrangible - not capable of being broken or separated into parts; not to be infringed or violated
+* legerity - alert facile quickness of mind or body
+* commodious - comfortably or conviently spacious; roomy
+* majuscule - a large letter (as a capital)
+* jejune - devoid of significance or interest, dull; juvenile, puerile; lacking nutritive value
+* ignis fatuus - "fools fire", a light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter; a deceptive goal or hope
+* nodus - complication, difficulty
+* longanimity - a disposition to bear injuries patientyly; forbearance
+* pareidolia - the tendency to perceive a specific, often meaningful, image in a random or ambiguous visual pattern
+* mot juste - the exactly right word or phrasing
+* martinet - a strict disciplinarian; a person who stresses a rigid adherence to the details of forms and methods
+* nychthemeron - a full period of a night and a day
+* hypaethral - having a roofless central space; open to the sky
+* orotund - marked by fullness, strength, and clarity of sound, sonorous; pompous, bombastic
+* kibitzer - one who looks on and often offers unwanted advice or comment
+* perendinate - to keep delaying something until the next day (...and the next, and the next...)
+* groke - to stare at someone while they eat, hoping they'll give you food
+* ultracrepidarian - a person who gives opinions on things that they know nothing about
+* pingle - to play with your food instead of eating it
+* snollygoster - a dishonest politician who cares only for personal gain
+* mumpsimus - a person who sticks to old habits or beliefs even after being proven wrong
+* strikhedonia - the joy of deciding to give up on something
+* calefactory - a room or building in a medieval monastery where the communal fire was kept ablaze so that monks could warm themselves after long hours of study in the unheated cloister; modern religious houses often have a calefactory for social gatherings or meetings
+* ressentiment - deep-seated resentment, frustration, and hostility accompanied by a sense of being powerless to express these feelings directly
+* éclaircissement - a clearing up of something obscure; enlightenment
+* fumarole - a hole in a volcanic region from which hot gasses and vapors issue
+* redound - to have an effect or consequence; to return or recoil; to roll back or be sent or driven back
+* ombré - having colors or tones that shade into each other
+* limerence - a state of involuntary obsession with another person, based on an uncertainty of whether the desire is reciprocated; lovesickness
+* eschatology - a belief concerning death, the end of the world, or the ultimate destiny of humankind
+* evitable - capable of being avoided (as opposed to the more common inevitable)
+* vitiate - to make faulty or defective, or ineffective, or to debase in moral or aesthetic status
+* obloquy - abusively detractive language; ill repute
+* anomie - social instability resulting from a breakdown of standards and values; personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals
+* encomium - a piece of writing, speech, etc. that praises someone or something, oftem glowingly and enthusiastically 
+* lacuna - a blank space or missing part, especially in a book or other piece of writing; a gap, cavity, pit, or discontinuity in a structure
+* exaptation - the use of a structure or feature for a function other than that for which it was developed through natural selection 
+* fillip - a thump or flick of the finger made by pressing a fingertip against the thumb and suddenly releasing it; something that excites or stimulates; a trivial addition; a significant and often unexpected development
+* jeremiad - a speech or literary work expressing bitter lament or a righteous prophecy of doom, often blaming the decline of societal morals for the coming downfall

@@ -12,7 +12,7 @@
 "In the information age, you don't teach philosophy as they did after feudalism. You perform it. If Aristotle were alive today he'd have a talk show." -Timothy Leary
 "You're only as young as the last time you changed your mind." -Timothy Leary
 "In a nation run by swine, all pigs are upward-mobile and the rest of us are fucked until we can put our acts together: Not necessarily to Win, but mainly to keep from Losing Completely." -Hunter S. Thompson
-"The towers are gone now, reduced to bloody rubble, along with all hopes for Peace in Our Time, in the United States or any other country. Make no mistake about it: We are At War now— with somebody— and we will stay At War with that mysterious Enemy for the rest of our lives." -Hunter S. Thompson
+"The towers are gone now, reduced to bloody rubble, along with all hopes for Peace in Our Time, in the United States or any other country. Make no mistake about it: We are At War now√ë with somebody√ë and we will stay At War with that mysterious Enemy for the rest of our lives." -Hunter S. Thompson
 "I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me." -Hunter S. Thompson
 "Myths and legends die hard in America. We love them for the extra dimension they provide, the illusion of near-infinite possibility to erase the narrow confines of most men's reality. Weird heroes and mould-breaking champions exist as living proof to those who need it that the tyranny of the rat race is not yet final." -Hunter S. Thompson
 "I wonder whether any other generation has seen such astounding revolutions of data and values as those through which we have lived. Scarcely anything material or established which I was brought up to believe was permanent and vital, has lasted. Everything I was sure or taught to be sure was impossible, has happened." -Winston Churchill
@@ -29,7 +29,7 @@
 "Part of the secret of success in life is to eat what you like and let the food fight it out inside." -Mark Twain
 "The trouble with eating Italian food is that five or six days later you're hungry again." -George Miller
 "To the old saying that man built the house but woman made of it a 'home' might be added the modern supplement that woman accepted cooking as a chore but man has made of it a recreation." -Emily Post
-"Great restaurants are, of course, nothing but mouth-brothels.  There is no point in going to them if one intends to keep one's belt buckled." -Frederic Raphael
+"Great restaurants are, of course, nothing but mouth-brothels.√ä There is no point in going to them if one intends to keep one's belt buckled." -Frederic Raphael
 "Religion is based, I think, primarily and mainly upon fear. It is partly the terror of the unknown and partly, as I have said, the wish to feel that you have a kind of elder brother who will stand by you in all your troubles and disputes....A good world needs knowledge, kindliness, and courage; it does not need a regretful hankering after the past or a fettering of the free intelligence by the words uttered long ago by ignorant men." -Bertrand Russell
 "Every hour wounds, the last one kills." -Anonymous
 "All we have to believe with is our senses, the tools we use to perceive the world: our sight, our touch, our memory. If they lie to us, then nothing can be trusted. And even if we do not believe, then we still cannot travel in any other way than the road our senses show us; and we must walk that road to the end." -Neil Gaiman, American Gods
@@ -38,7 +38,7 @@
 "Live as if you were to die tomorrow. Learn as if you were to live forever. " -Gandhi
 "As much as I get pissed off by the religious right constantly pushing decency laws and limiting our freedoms, I also have a secret fear. I'm afraid that without their constant political pressure, our world would resemble Second Life." -TheCaptain, SA Forums
 "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned." - Buddha
-"The problem with people who have no vices is that, generally, you can be sure they’re going to have some pretty annoying virtues." -Elizabeth Taylor
+"The problem with people who have no vices is that, generally, you can be sure they√ïre going to have some pretty annoying virtues." -Elizabeth Taylor
 "Whenever you find yourself on the side of the majority, it is time to pause and reflect." -Mark Twain
 "Everything popular is wrong." -Oscar Wilde, The Importance of Being Earnest
 "Not knowing how to cook is like not knowing how to fuck." -Robert Rodriguez
@@ -48,7 +48,7 @@
 "Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon." -Susan Ertz
 "Golf is hitting an object to a defined area with the least amount of effort and an alert attitude of indifference." -Moe Norman
 "It took me seventeen years to get 3000 hits in baseball. I did it in one afternoon on the golf course." -Hank Aaron
-"Grown-ups never understand anything by themselves, and it is tiresome for children to be always explaining things to them." -Antoine de Saint-Exupéry, The Little Prince
+"Grown-ups never understand anything by themselves, and it is tiresome for children to be always explaining things to them." -Antoine de Saint-Exup≈Ωry, The Little Prince
 "Even if I lose, the one who beats me will never get rid of the scars." -Hunter S. Thompson
 "Life is a great tragedy to those who feel, and a great comedy to those who think." -Horace Walpole, 4th Earl of Orford
 "In regards to meeting potential romantic partners on the internet, just remember: the odds are good, but the goods are odd." - Anonymous, SAForums
@@ -81,7 +81,7 @@
 "It is of great importance in a republic not only to guard the society against the oppression of its rulers, but to guard one part of the society against the injustice of the other part." -Thomas Jefferson
 "Irrationally held truths may be more harmful than reasoned errors." -Thomas H. Huxley
 "The most merciful thing in the world...is the inability of the human mind to correlate all its contents." -H.P. Lovecraft
-"We are here to unlearn the teachings of the church, state, and our educational system. We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us." –Charles Bukowski
+"We are here to unlearn the teachings of the church, state, and our educational system. We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us." √êCharles Bukowski
 "Fairy tales do not tell children that dragons exist. Children already know that dragons exist. Fairy tales tell children that they can be killed." -G.K. Chesterton
 "Time you enjoy wasting is not wasted time." -Descartes
 "Only he who attempts the absurd is capable of achieving the impossible." -Miguel de Unamuno
@@ -130,7 +130,7 @@
 "I will accept any rules that you feel necessary to your freedom. I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do." -Robert Heinlein, The Moon is a Harsh Mistress
 "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn, like fabulous yellow roman candles exploding like spiders across the stars." -Jack Kerouac, On the Road
 "A woman always has half an onion left over, no matter what the size of the onion, the dish, or the woman." -Terry Pratchett
-"You see, when you’re middle class, you have to live with the fact that history will ignore you. You have to live with the fact that history can never champion your causes and that history will never feel sorry for you. It is the price that is paid for day-to-day comfort and silence. And because of this price, all happinesses are sterile; all sadnesses go unpitied." -Douglas Coupland, Generation X
+"You see, when you√ïre middle class, you have to live with the fact that history will ignore you. You have to live with the fact that history can never champion your causes and that history will never feel sorry for you. It is the price that is paid for day-to-day comfort and silence. And because of this price, all happinesses are sterile; all sadnesses go unpitied." -Douglas Coupland, Generation X
 "God does not play dice with the universe; He plays an ineffable game of his own devising, which might be compared, from the perspective of any of the other players, to being involved in an obscure and complex version of poker in a pitch dark room, with blank cards, for infinite stakes, with a dealer who won't tell you the rules, and who smiles all the time." -Terry Pratchett, Good Omens
 "The greatest challenge to any thinker is stating the problem in a way that will allow a solution." -Bertrand Russell
 "The length of a film should be directly related to the endurance of the human bladder." -Alfred Hitchcock
@@ -225,9 +225,9 @@
 "The importance of information is directly proportional to its improbability." -Fundamental Principle of Information Theory
 "I'll probably never produce a masterpiece, but so what? I feel I have a Sound aborning, which is my own, and that Sound if erratic is still my greatest pride, because I would rather write like a dancer shaking my ass to boogaloo inside my head, and perhaps reach only readers who like to use books to shake their asses, than to be or write for the man cloistered in a closet somewhere reading Aeschylus while this stupefying world careens crazily past his waxy windows toward its last raving sooty feedback pirouette." -Lester Bangs
 "A hero is a goddam stupid thing to have in the first place and a general block to anything you might wanta accomplish on your own." -Lester Bangs
-"I'm not saying that all college students are subhuman — I'm just saying that if you aim to spend a few years mastering the art of pomposity, these are places where you can be taught by undisputed experts." -Lester Bangs
+"I'm not saying that all college students are subhuman √ë I'm just saying that if you aim to spend a few years mastering the art of pomposity, these are places where you can be taught by undisputed experts." -Lester Bangs
 "The politics of rock 'n' roll, in England or America or anywhere else, is that a whole lot of kids want to be fried out of their skins by the most scalding propulsion they can find, for a night they can pretend is the rest of their lives, and whether the next day they go back to work in shops or boredom on the dole or American TV doldrums in Mom 'n' Daddy's living room nothing can cancel the reality of that night in the revivifying flames when for once if only then in your life you were blasted out of yourself and the monotony which defines most life anywhere at any time, when you supped on lightning and nothing else in the realms of the living or dead mattered at all." -Lester Bangs
-"In America you can ease into middle age with the accoutrements of adolescence still prominent and suffer relatively minor embarrassment: okay, so the guy's still got his sideburns and rod and beer and beergut and wife and three kids and a duplex and never grew up. So what? You're not supposed to grow up in America. You're supposed to consume. But in Britain it seems there is some ideal, no, some dry river one is expected to ford, so you can enter that sedate bubble where you raise a family, contributing in your small way to your society and keep your mouth shut. Until you get old, that is, when you can become an "eccentric" — do and say outrageous things, naughty things, because it's expected of you, you've crossed to the other mirror of the telescope of childhood." -Lester Bangs
+"In America you can ease into middle age with the accoutrements of adolescence still prominent and suffer relatively minor embarrassment: okay, so the guy's still got his sideburns and rod and beer and beergut and wife and three kids and a duplex and never grew up. So what? You're not supposed to grow up in America. You're supposed to consume. But in Britain it seems there is some ideal, no, some dry river one is expected to ford, so you can enter that sedate bubble where you raise a family, contributing in your small way to your society and keep your mouth shut. Until you get old, that is, when you can become an "eccentric" √ë do and say outrageous things, naughty things, because it's expected of you, you've crossed to the other mirror of the telescope of childhood." -Lester Bangs
 "It is a fact that nine-tenths of the HUMAN RACE never have and never will think for themselves, about anything. Whether it's music or Reaganomics, say, almost everybody prefers to sit and wait till somebody who seems to have some kind of authority even if it's seldom too clear just where they got it to come along and inform them one and all what their position on the matter should be. Then they all agree that this is gospel, and gang up to persecute whatever minority might happen to disagree. This is the history of the human race, certainly the history of music." -Lester Bangs
 "The significance of man is that he is insignificant and is aware of it." -Carl Becker
 "He wrapped himself in quotations- as a beggar would enfold himself in the purple of Emperors." -Rudyard Kipling
@@ -290,7 +290,7 @@
 "Patriotism is your conviction that this country is superior to all other countries because you were born in it." -George Bernard Shaw
 "When a stupid man is doing something he is ashamed of, he always declares it his duty." -George Bernard Shaw
 "I wish I had more friends, but people are such jerks. If you can just get most people to leave you alone, you're doing good. If you can find even one person you really like, you're lucky. And if that person can also stand you, you're really lucky." -Bill Watterson
-"Lennox Lewis, I’m coming for you man. My style is impetuous. My defense is impregnable, and I’m just ferocious. I want your heart. I want to eat his children. Praise be to Allah!” -Mike Tyson
+"Lennox Lewis, I√ïm coming for you man. My style is impetuous. My defense is impregnable, and I√ïm just ferocious. I want your heart. I want to eat his children. Praise be to Allah!√ì -Mike Tyson
 "There's nothing I'm afraid of like scared people." -Robert Frost
 "Success is not the result of spontaneous combustion. You must set yourself on fire." -Fred Shero
 "The only way to comprehend what mathematicians mean by infinity is to contemplate the extent of human stupidity." -Voltaire
@@ -343,7 +343,7 @@
 "It's not where you take things from -- it's where you take them to." -Jean-Luc Godard
 "Sports is to war as pornography is to sex. We get to exercise our ancient drives." -Jonathan Haidt
 "If you want the truth to stand clear before you, never be for or against. The struggle between 'for' and 'against' is the mind's worst disease." -Sent-ts'an
-“It seems to me that our three basic needs, for food and security and love, are so mixed and mingled and intertwined that we cannot straightly think of one without the others. So it happens that when I write of hunger, I am really writing about love and the hunger for it, and warmth and the love of it and the hunger for it … and then the warmth and richness and fine reality of hunger satisfied … and it is all one.” -M.F.K. Fisher
+√íIt seems to me that our three basic needs, for food and security and love, are so mixed and mingled and intertwined that we cannot straightly think of one without the others. So it happens that when I write of hunger, I am really writing about love and the hunger for it, and warmth and the love of it and the hunger for it √â and then the warmth and richness and fine reality of hunger satisfied √â and it is all one.√ì -M.F.K. Fisher
 "In war: resolution. In defeat: defiance. In victory: magnanimity. In peace: goodwill." -Winston Churchill
 "The worst thing is not that the world is unfree, but that people have unlearned their liberty." -Milan Kundera
 "Any sufficiently advanced technology is indistinguishable from a completely ad-hoc plot device." -David Langford, 'A Gadget Too Far'
@@ -470,7 +470,7 @@
 "The good life is one inspired by love and guided by knowledge." -Bertrand Russell
 "There is not enough time to do all the nothing we want to do." -Bill Watterson
 "Happiness is good health and a bad memory." -Ingrid Bergman
-"You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then ø to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting." Merlyn, The Once and Future King
+"You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then ¬ø to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting." Merlyn, The Once and Future King
 "Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact." -George Eliot
 "Some men just want to see the world learn." -#matt
 "There are times in life when people must know when not to let go. Balloons are designed to teach small children this." -Terry Pratchett
@@ -599,3 +599,21 @@
 "Find what you love and let it kill you." -Charles Bukowski
 "A crust eaten in peace is better than a banquet partaken in anxiety." -Aesop
 "The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology." -Edward O. Wilson
+"Life has no meaning the moment you lose the illusion of being eternal." -Sartre
+"Everyone appreciates your honestly until you're honest with them. Then, you're an asshole." -George Carlin
+"The road of excess leads to the palace of wisdom...You never know what is enough until you know what is more than enough." -William Blake
+"Audiophiles don't use their equipment to listen to your music. They use your music to listen to their equipment." -Alan Parsons
+"You can't just eat good food. You've got to talk about it too." -Kurt Vonnegut
+"Sin is fun. That's pretty much all I've been interested in." -Martin Scorsese
+"Take away the right to say 'fuck' and you take away the right to say 'fuck the government'." -Lenny Bruce
+"When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong." -R. Buckminster Fuller
+"About all a human being is, anyway, is juat a hoping machine." -Woody Guthrie
+"How nice -- to feel nothing, and still get full credit for being alive." -Kurt Vonnegut
+"The political problem of mankind is to combine three things: economic efficiency, social justice, and individual liberty." -John Maynard Keynes
+"Good and bad men are less than they seem." -Samuel Taylor Coleridge
+"You don't have to burn books to destroy a culture. Just get people to stop reading them." -Ray Bradbury
+"If I knew where songs came from, I'd go there more often." -Leonard Cohen
+"When you meet the monster, anoit its feet." -Bayo Akomolafe
+"Birds born in a cage thing flying is an illness." -Alejandro Jodorowsky
+"We hardly ever recognize that we can cut anything out of our lives, anytime, in the blink of an eye." -Carlos Castaneda
+"We are as personally free as we can permit the autonomy of others." -Antero Alli

@@ -1,13 +1,9 @@
 # notes.git
 
-A place to stash random text that I've been compiling
+A place to stash random text that I find amusing or interesting
 
 ## Current Contents:
 
-* QuoteFile - A collection of quotes that I've liked
-* BonMots - Random puns/jokes/wordplay/neologisms
-
-## To Add:
-
-* Vocab - Move my collection of weird/cool words out of BonMots into its own doc
-* Cheatsheets - Move my zsh/tmux/vim/etc cheatsheets out of my dotfiles repo and into this one?
+* Vocab - Interesting words that I've run across 
+* QuoteFile - A collection of quotes that I like
+* BonMots - Random manias/phobias/paraphilias/puns/jokes/wordplay/neologisms
