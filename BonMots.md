@@ -425,6 +425,7 @@ A list of (mostly dumb and/or juvenile) band names (mostly spoonerisms/malapropi
 * Charlie Brown Recluse
 * El Gemelo Malvado (The Evil Twin en espanol)
 * Juggernaughty
+* Smoke Test
 
 
 ## Interesting Tidbits:
