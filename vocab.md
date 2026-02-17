@@ -429,4 +429,5 @@ A collection of words and phrases that I find interesting.
 * fillip - a thump or flick of the finger made by pressing a fingertip against the thumb and suddenly releasing it; something that excites or stimulates; a trivial addition; a significant and often unexpected development
 * jeremiad - a speech or literary work expressing bitter lament or a righteous prophecy of doom, often blaming the decline of societal morals for the coming downfall
 * thenar - relating to the rounded, fleshy part of the hand at the base of the thumb
+* louche - of questionable taste, decency, or morality; not reputable
 
