@@ -430,4 +430,6 @@ A collection of words and phrases that I find interesting.
 * jeremiad - a speech or literary work expressing bitter lament or a righteous prophecy of doom, often blaming the decline of societal morals for the coming downfall
 * thenar - relating to the rounded, fleshy part of the hand at the base of the thumb
 * louche - of questionable taste, decency, or morality; not reputable
+* flaneur (french) -  an urban, usually male "stroller", "lounger", "saunterer", or "loafer"; a figure of urban affluence and modernity, representing the ability to wander detached from society, for an entertainment from the observation of everyday life
+* semiotics - the study of signs and symbols and their use or interpretation
 
