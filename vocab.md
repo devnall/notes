@@ -432,4 +432,6 @@ A collection of words and phrases that I find interesting.
 * louche - of questionable taste, decency, or morality; not reputable
 * flaneur (french) -  an urban, usually male "stroller", "lounger", "saunterer", or "loafer"; a figure of urban affluence and modernity, representing the ability to wander detached from society, for an entertainment from the observation of everyday life
 * semiotics - the study of signs and symbols and their use or interpretation
+* invidious - tending to provoke resentment, envy, ill-will, animosity;
+    offensive and unfair.
 
