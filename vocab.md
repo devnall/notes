@@ -434,4 +434,6 @@ A collection of words and phrases that I find interesting.
 * semiotics - the study of signs and symbols and their use or interpretation
 * invidious - tending to provoke resentment, envy, ill-will, animosity;
     offensive and unfair.
+* lairy - cunning or conceiter; ostentatiously attractive or flashy; aggressive or rowdy
+* eleemosynary - of, relating to, or supported by charity
 
