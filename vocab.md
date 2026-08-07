@@ -436,4 +436,4 @@ A collection of words and phrases that I find interesting.
     offensive and unfair.
 * lairy - cunning or conceiter; ostentatiously attractive or flashy; aggressive or rowdy
 * eleemosynary - of, relating to, or supported by charity
-
+* hermitage - where a hermit resides, or a secluded residence or private retreat.
