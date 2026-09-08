@@ -61,7 +61,7 @@ A collection of words and phrases that I find interesting.
 * conglobate - to form into a ball
 * pleonasm - the use of more words than are necessary to express an idea
 * dilatory - given to, or marked by, procrastination or delay
-* weltschmerz - sentimental pessimism; sorrow that one feels and accepts as one's necessary portion in life
+* weltschmerz - a deep sadness at the state of the world; sentimental pessimism; sorrow that one feels and accepts as one's necessary portion in life
 * meupareunia - Sexual activity enjoyed by only one of the participants
 * adytum - a sacred place that the public is forbidden to enter; an inner shrine
 * filiopietistic - pertaining to reverence of forebears or tradition, especially if carried to excess.
