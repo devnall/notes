@@ -437,3 +437,4 @@ A collection of words and phrases that I find interesting.
 * lairy - cunning or conceiter; ostentatiously attractive or flashy; aggressive or rowdy
 * eleemosynary - of, relating to, or supported by charity
 * hermitage - where a hermit resides, or a secluded residence or private retreat.
+* fillip - to strike or tap by flicking or thumping with a finger curled up against the thumb; to stimulate
