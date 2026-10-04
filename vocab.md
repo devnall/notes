@@ -440,4 +440,4 @@ A collection of words and phrases that I find interesting.
 * fillip - to strike or tap by flicking or thumping with a finger curled up against the thumb; to stimulate
 * prodrome - an early symptom warning of the onset of a disease (medical term)
 * tendentious - marked by a tendency in favor of a particular point of view; biased
-
+* assiduous - showing great care, attention, and effort
